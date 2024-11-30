@@ -1,0 +1,94 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "name": "Arjuna Visada Yoga",
+      "description": "The Yoga of Arjuna's Dejection"
+    },
+    {
+      "number": 2,
+      "name": "Sankhya Yoga",
+      "description": "The Yoga of Knowledge"
+    },
+    {
+      "number": 3,
+      "name": "Karma Yoga",
+      "description": "The Yoga of Action"
+    },
+    {
+      "number": 4,
+      "name": "Jnana Karma Sanyasa Yoga",
+      "description": "The Yoga of Knowledge and the Renunciation of Action"
+    },
+    {
+      "number": 5,
+      "name": "Karma Sanyasa Yoga",
+      "description": "The Yoga of Renunciation of Action"
+    },
+    {
+      "number": 6,
+      "name": "Dhyana Yoga",
+      "description": "The Yoga of Meditation"
+    },
+    {
+      "number": 7,
+      "name": "Jnana Vijnana Yoga",
+      "description": "The Yoga of Knowledge and Wisdom"
+    },
+    {
+      "number": 8,
+      "name": "Aksara Brahma Yoga",
+      "description": "The Yoga of the Imperishable Brahman"
+    },
+    {
+      "number": 9,
+      "name": "Raja Vidya Raja Guhya Yoga",
+      "description": "The Yoga of Royal Knowledge and Royal Secret"
+    },
+    {
+      "number": 10,
+      "name": "Vibhuti Yoga",
+      "description": "The Yoga of Divine Manifestations"
+    },
+    {
+      "number": 11,
+      "name": "Viswarupa Darsana Yoga",
+      "description": "The Yoga of the Vision of the Universal Form"
+    },
+    {
+      "number": 12,
+      "name": "Bhakti Yoga",
+      "description": "The Yoga of Devotion"
+    },
+    {
+      "number": 13,
+      "name": "Ksetra Ksetrajna Vibhaga Yoga",
+      "description": "The Yoga of the Distinction Between Field and the Knower of the Field"
+    },
+    {
+      "number": 14,
+      "name": "Gunatraya Vibhaga Yoga",
+      "description": "The Yoga of the Division of the Three Gunas"
+    },
+    {
+      "number": 15,
+      "name": "Purushottama Yoga",
+      "description": "The Yoga of the Supreme Person"
+    },
+    {
+      "number": 16,
+      "name": "Daivasura Sampad Vibhaga Yoga",
+      "description": "The Yoga of the Division Between Divine and Demoniac"
+    },
+    {
+      "number": 17,
+      "name": "Sraddhatraya Vibhaga Yoga",
+      "description": "The Yoga of the Division of Three Types of Faith"
+    },
+    {
+      "number": 18,
+      "name": "Moksha Sanyasa Yoga",
+      "description": "The Yoga of Liberation by Renunciation"
+    }
+  ]
+} 

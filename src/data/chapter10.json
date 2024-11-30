@@ -1,0 +1,341 @@
+{
+  "chapter": 10,
+  "slokas": [
+    {
+      "id": "10.1",
+      "chapter": 10,
+      "verse": 1,
+      "sanskrit": "श्रीभगवानुवाच | भूय एव महाबाहो शृणु मे परमं वचः | यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||",
+      "pronunciation": "śhrī bhagavān uvācha | bhūya eva mahā-bāho śhṛiṇu me paramaṁ vachaḥ | yatte 'haṁ prīyamāṇāya vakṣhyāmi hita-kāmyayā ||",
+      "meaning": "The Supreme Personality of Godhead said: Listen again, O mighty-armed Arjuna. Because you are My dear friend, for your benefit I shall speak to you further, giving knowledge that is better than what I have already explained."
+    },
+    {
+      "id": "10.2",
+      "chapter": 10,
+      "verse": 2,
+      "sanskrit": "न मे विदुः सुरगणाः प्रभवं न महर्षयः | अहमादिर्हि देवानां महर्षीणां च सर्वशः ||",
+      "pronunciation": "na me viduḥ sura-gaṇāḥ prabhavaṁ na maharṣhayaḥ | aham ādir hi devānāṁ maharṣhīṇāṁ cha sarvaśhaḥ ||",
+      "meaning": "Neither the hosts of demigods nor the great sages know My origin or opulences, for, in every respect, I am the source of the demigods and sages."
+    },
+    {
+      "id": "10.3",
+      "chapter": 10,
+      "verse": 3,
+      "sanskrit": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् | असम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ||",
+      "pronunciation": "yo māmajam anādiṁ cha vetti loka-maheśhvaram | asammūḍhaḥ sa martyeṣhu sarva-pāpaiḥ pramuchyate ||",
+      "meaning": "He who knows Me as the unborn, as the beginningless, as the Supreme Lord of all the worlds – he only, undeluded among men, is freed from all sins."
+    },
+    {
+      "id": "10.4",
+      "chapter": 10,
+      "verse": 4,
+      "sanskrit": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः | सुखं दुःखं भवोऽभावो भयं चाभयमेव च ||",
+      "pronunciation": "buddhir jñānam asammohaḥ kṣhamā satyaṁ damaḥ śhamaḥ | sukhaṁ duḥkhaṁ bhavo 'bhāvo bhayaṁ chābhayameva cha ||",
+      "meaning": "Intelligence, knowledge, freedom from doubt and delusion, forgiveness, truthfulness, control of the senses, control of the mind, happiness and distress, birth, death, fear, fearlessness,"
+    },
+    {
+      "id": "10.5",
+      "chapter": 10,
+      "verse": 5,
+      "sanskrit": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः | भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||",
+      "pronunciation": "ahiṁsā samatā tuṣhṭis tapo dānaṁ yaśho 'yaśhaḥ | bhavanti bhāvā bhūtānāṁ matta eva pṛithag-vidhāḥ ||",
+      "meaning": "Nonviolence, equanimity, satisfaction, austerity, charity, fame and infamy – all these various qualities of living beings are created by Me alone."
+    },
+    {
+      "id": "10.6",
+      "chapter": 10,
+      "verse": 6,
+      "sanskrit": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा | मद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||",
+      "pronunciation": "maharṣhayaḥ sapta pūrve chatvāro manavas tathā | mad-bhāvā mānasā jātā yeṣhāṁ loka imāḥ prajāḥ ||",
+      "meaning": "The seven great sages and before them the four other great sages and the Manus [progenitors of mankind] come from Me, born from My mind, and all the living beings populating the various planets descend from them."
+    },
+    {
+      "id": "10.7",
+      "chapter": 10,
+      "verse": 7,
+      "sanskrit": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः | सोऽविकम्पेन योगेन युज्यते नात्र संशयः ||",
+      "pronunciation": "etāṁ vibhūtiṁ yogaṁ cha mama yo vetti tattvataḥ | so 'vikampena yogena yujyate nātra sanśhayaḥ ||",
+      "meaning": "He who knows in truth this glory and power of Mine engages in unalloyed devotional service; of this there is no doubt."
+    },
+    {
+      "id": "10.8",
+      "chapter": 10,
+      "verse": 8,
+      "sanskrit": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते | इति मत्वा भजन्ते मां बुधा भावसमन्विताः ||",
+      "pronunciation": "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate | iti matvā bhajante māṁ budhā bhāva-samanvitāḥ ||",
+      "meaning": "I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service and worship Me with all their hearts."
+    },
+    {
+      "id": "10.9",
+      "chapter": 10,
+      "verse": 9,
+      "sanskrit": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् | कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||",
+      "pronunciation": "mach-chittā mad-gata-prāṇā bodhayantaḥ parasparam | kathayantaśh cha māṁ nityaṁ tuṣhyanti cha ramanti cha ||",
+      "meaning": "The thoughts of My pure devotees dwell in Me, their lives are fully devoted to My service, and they derive great satisfaction and bliss from always enlightening one another and conversing about Me."
+    },
+    {
+      "id": "10.10",
+      "chapter": 10,
+      "verse": 10,
+      "sanskrit": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् | ददामि बुद्धियोगं तं येन मामुपयान्ति ते ||",
+      "pronunciation": "teṣhāṁ satata-yuktānāṁ bhajatāṁ prīti-pūrvakam | dadāmi buddhi-yogaṁ taṁ yena mām upayānti te ||",
+      "meaning": "To those who are constantly devoted to serving Me with love, I give the understanding by which they can come to Me."
+    },
+    {
+      "id": "10.11",
+      "chapter": 10,
+      "verse": 11,
+      "sanskrit": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः | नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ||",
+      "pronunciation": "teṣhām evānukampārtham aham ajñāna-jaṁ tamaḥ | nāśhayāmyātma-bhāva-stho jñāna-dīpena bhāsvatā ||",
+      "meaning": "To show them special mercy, I, dwelling in their hearts, destroy with the shining lamp of knowledge the darkness born of ignorance."
+    },
+    {
+      "id": "10.12",
+      "chapter": 10,
+      "verse": 12,
+      "sanskrit": "अर्जुन उवाच | परं ब्रह्म परं धाम पवित्रं परमं भवान् | पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ||",
+      "pronunciation": "arjuna uvācha | paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān | puruṣhaṁ śhāśhvataṁ divyam ādi-devam ajaṁ vibhum ||",
+      "meaning": "Arjuna said: You are the Supreme Brahman, the ultimate abode, the purest, the Absolute Truth. You are the eternal, transcendental, original person, the unborn, the greatest."
+    },
+    {
+      "id": "10.13",
+      "chapter": 10,
+      "verse": 13,
+      "sanskrit": "आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा | असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ||",
+      "pronunciation": "āhus tvām ṛiṣhayaḥ sarve devarṣhir nāradas tathā | asito devalo vyāsaḥ svayaṁ chaiva bravīṣhi me ||",
+      "meaning": "All the great sages such as Narada, Asita, Devala and Vyasa confirm this truth about You, and now You Yourself are declaring it to me."
+    },
+    {
+      "id": "10.14",
+      "chapter": 10,
+      "verse": 14,
+      "sanskrit": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव | न हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ||",
+      "pronunciation": "sarvam etad ṛitaṁ manye yan māṁ vadasi keśhava | na hi te bhagavan vyaktiṁ vidur devā na dānavāḥ ||",
+      "meaning": "O Krishna, I totally accept as truth all that You have told me. Neither the demigods nor the demons, O Lord, can understand Your personality."
+    },
+    {
+      "id": "10.15",
+      "chapter": 10,
+      "verse": 15,
+      "sanskrit": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम | भूतभावन भूतेश देवदेव जगत्पते ||",
+      "pronunciation": "svayam evātmanātmānaṁ vettha tvaṁ puruṣhottama | bhūta-bhāvana bhūteśha deva-deva jagat-pate ||",
+      "meaning": "Indeed, You alone know Yourself by Your own internal potency, O Supreme Person, Origin of all, Lord of all beings, God of gods, Lord of the universe!"
+    },
+    {
+      "id": "10.16",
+      "chapter": 10,
+      "verse": 16,
+      "sanskrit": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः | याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||",
+      "pronunciation": "vaktum arhasyaśheṣheṇa divyā hyātma-vibhūtayaḥ | yābhir vibhūtibhir lokān imāṁs tvaṁ vyāpya tiṣhṭhasi ||",
+      "meaning": "Please tell me in detail of Your divine powers by which You pervade all these worlds and abide in them."
+    },
+    {
+      "id": "10.17",
+      "chapter": 10,
+      "verse": 17,
+      "sanskrit": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् | केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ||",
+      "pronunciation": "kathaṁ vidyām ahaṁ yogins tvāṁ sadā parichintayan | keṣhu keṣhu cha bhāveṣhu chintyo 'si bhagavan mayā ||",
+      "meaning": "O mystic, how shall I constantly think of You, and in what forms shall I meditate on You, O Blessed Lord?"
+    },
+    {
+      "id": "10.18",
+      "chapter": 10,
+      "verse": 18,
+      "sanskrit": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन | भूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||",
+      "pronunciation": "vistareṇātmano yogaṁ vibhūtiṁ cha janārdana | bhūyaḥ kathaya tṛiptir hi śhṛiṇvato nāsti me 'mṛitam ||",
+      "meaning": "Tell me again in detail, O Janardana, of Your mighty potencies and glories, for I never tire of hearing Your ambrosial words."
+    },
+    {
+      "id": "10.19",
+      "chapter": 10,
+      "verse": 19,
+      "sanskrit": "श्रीभगवानुवाच | हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः | प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||",
+      "pronunciation": "śhrī bhagavān uvācha | hanta te kathayiṣhyāmi divyā hyātma-vibhūtayaḥ | prādhānyataḥ kuru-śhreṣhṭha nāstyanto vistarasya me ||",
+      "meaning": "The Blessed Lord said: Yes, I will tell you of My divine manifestations, but only of those which are prominent, O best of the Kurus, for My opulence is limitless."
+    },
+    {
+      "id": "10.20",
+      "chapter": 10,
+      "verse": 20,
+      "sanskrit": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः | अहमादिश्च मध्यं च भूतानामन्त एव च ||",
+      "pronunciation": "aham ātmā guḍākeśha sarva-bhūtāśhaya-sthitaḥ | aham ādiśh cha madhyaṁ cha bhūtānām anta eva cha ||",
+      "meaning": "I am the Self, O Gudakesha, seated in the hearts of all creatures. I am the beginning, the middle and the end of all beings."
+    },
+    {
+      "id": "10.21",
+      "chapter": 10,
+      "verse": 21,
+      "sanskrit": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् | मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ||",
+      "pronunciation": "ādityānām ahaṁ viṣhṇur jyotiṣhāṁ ravir anśhumān | marīchir marutām asmi nakṣhatrāṇām ahaṁ śhaśhī ||",
+      "meaning": "Of the Adityas I am Vishnu, of lights I am the radiant sun, of the Maruts I am Marici, and among the stars I am the moon."
+    },
+    {
+      "id": "10.22",
+      "chapter": 10,
+      "verse": 22,
+      "sanskrit": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः | इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||",
+      "pronunciation": "vedānāṁ sāma-vedo 'smi devānām asmi vāsavaḥ | indriyāṇāṁ manaśh chāsmi bhūtānām asmi chetanā ||",
+      "meaning": "Of the Vedas I am the Sama Veda; of the demigods I am Indra; of the senses I am the mind; and in living beings I am the living force [consciousness]."
+    },
+    {
+      "id": "10.23",
+      "chapter": 10,
+      "verse": 23,
+      "sanskrit": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् | वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||",
+      "pronunciation": "rudrāṇāṁ śhaṅkaraśh chāsmi vitteśho yakṣha-rakṣhasām | vasūnāṁ pāvakaśh chāsmi meruḥ śhikhariṇām aham ||",
+      "meaning": "Of all the Rudras I am Lord Shiva; of the Yakshas and Rakshasas I am the lord of wealth [Kubera]; of the Vasus I am fire [Agni], and of mountains I am Meru."
+    },
+    {
+      "id": "10.24",
+      "chapter": 10,
+      "verse": 24,
+      "sanskrit": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् | सेनानीनामहं स्कन्दः सरसामस्मि सागरः ||",
+      "pronunciation": "purodhasāṁ cha mukhyaṁ māṁ viddhi pārtha bṛihaspatim | senānīnām ahaṁ skandaḥ sarasām asmi sāgaraḥ ||",
+      "meaning": "Of priests, O Arjuna, know Me to be the chief, Brihaspati. Of generals I am Kartikeya, and of bodies of water I am the ocean."
+    },
+    {
+      "id": "10.25",
+      "chapter": 10,
+      "verse": 25,
+      "sanskrit": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् | यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ||",
+      "pronunciation": "maharṣhīṇāṁ bhṛigur ahaṁ girām asmyekam akṣharam | yajñānāṁ japa-yajño 'smi sthāvarāṇāṁ himālayaḥ ||",
+      "meaning": "Of the great sages I am Bhrigu; of vibrations I am the transcendental Om. Of sacrifices I am the chanting of the holy names [japa], and of immovable things I am the Himalayas."
+    },
+    {
+      "id": "10.26",
+      "chapter": 10,
+      "verse": 26,
+      "sanskrit": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः | गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||",
+      "pronunciation": "aśhvatthaḥ sarva-vṛikṣhāṇāṁ devarṣhīṇāṁ cha nāradaḥ | gandharvāṇāṁ chitrarathaḥ siddhānāṁ kapilo muniḥ ||",
+      "meaning": "Of all trees I am the banyan tree, and of the sages among the demigods I am Narada. Of the Gandharvas I am Citraratha, and among perfected beings I am the sage Kapila."
+    },
+    {
+      "id": "10.27",
+      "chapter": 10,
+      "verse": 27,
+      "sanskrit": "उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् | ऐरावतं गजेन्द्राणां नराणां च नराधिपम् ||",
+      "pronunciation": "uchchaiḥśhravasam aśhvānāṁ viddhi mām amṛitodbhavam | airāvataṁ gajendrāṇāṁ narāṇāṁ cha narādhipam ||",
+      "meaning": "Of horses know Me to be Ucchaihsrava, produced during the churning of the ocean for nectar. Of lordly elephants I am Airavata, and among men I am the monarch."
+    },
+    {
+      "id": "10.28",
+      "chapter": 10,
+      "verse": 28,
+      "sanskrit": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक् | प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ||",
+      "pronunciation": "āyudhānām ahaṁ vajraṁ dhenūnām asmi kāmadhuk | prajanaśh chāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ ||",
+      "meaning": "Of weapons I am the thunderbolt; among cows I am the surabhi. Of causes for procreation I am Kandarpa, the god of love, and of serpents I am Vasuki."
+    },
+    {
+      "id": "10.29",
+      "chapter": 10,
+      "verse": 29,
+      "sanskrit": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् | पितॄणामर्यमा चास्मि यमः संयमतामहम् ||",
+      "pronunciation": "anantaśh chāsmi nāgānāṁ varuṇo yādasām aham | pitṝīṇām aryamā chāsmi yamaḥ saṁyamatām aham ||",
+      "meaning": "Of the Nagas I am Ananta, and among the aquatics I am Varuna. Of departed ancestors I am Aryama, and among the dispensers of law I am Yama, the lord of death."
+    },
+    {
+      "id": "10.30",
+      "chapter": 10,
+      "verse": 30,
+      "sanskrit": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् | मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ||",
+      "pronunciation": "prahlādaśh chāsmi daityānāṁ kālaḥ kalayatām aham | mṛigāṇāṁ cha mṛigendro 'haṁ vainateyaśh cha pakṣhiṇām ||",
+      "meaning": "Among the Daitya demons I am the devoted Prahlada, among subduers I am time, among beasts I am the lion, and among birds I am Garuda."
+    },
+    {
+      "id": "10.31",
+      "chapter": 10,
+      "verse": 31,
+      "sanskrit": "पवनः पवतामस्मि रामः शस्त्रभृतामहम् | झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||",
+      "pronunciation": "pavanaḥ pavatām asmi rāmaḥ śhastra-bhṛitām aham | jhaṣhāṇāṁ makaraśh chāsmi srotasām asmi jāhnavī ||",
+      "meaning": "Among purifiers I am the wind, among the warriors I am Rama, among fish I am the shark, and among flowing rivers I am the Ganges."
+    },
+    {
+      "id": "10.32",
+      "chapter": 10,
+      "verse": 32,
+      "sanskrit": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन | अध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ||",
+      "pronunciation": "sargāṇām ādir antaśh cha madhyaṁ chaivāham arjuna | adhyātma-vidyā vidyānāṁ vādaḥ pravadatām aham ||",
+      "meaning": "Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the self, and among logicians I am the conclusive truth."
+    },
+    {
+      "id": "10.33",
+      "chapter": 10,
+      "verse": 33,
+      "sanskrit": "अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च | अहमेवाक्षयः कालो धाताहं विश्वतोमुखः ||",
+      "pronunciation": "akṣharāṇām a-kāro 'smi dvandvaḥ sāmāsikasya cha | aham evākṣhayaḥ kālo dhātāhaṁ viśhvato-mukhaḥ ||",
+      "meaning": "Of letters I am the letter A, and among compound words I am the dual compound. I am also inexhaustible time, and among creators I am Brahma."
+    },
+    {
+      "id": "10.34",
+      "chapter": 10,
+      "verse": 34,
+      "sanskrit": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् | कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ||",
+      "pronunciation": "mṛityuḥ sarva-haraśh chāham udbhavaśh cha bhaviṣhyatām | kīrtiḥ śhrīr vāk cha nārīṇāṁ smṛitir medhā dhṛitiḥ kṣhamā ||",
+      "meaning": "I am all-devouring death, and I am the generating principle of all that is yet to be. Among women I am fame, fortune, fine speech, memory, intelligence, steadfastness and patience."
+    },
+    {
+      "id": "10.35",
+      "chapter": 10,
+      "verse": 35,
+      "sanskrit": "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् | मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ||",
+      "pronunciation": "bṛihat-sāma tathā sāmnāṁ gāyatrī chhandasām aham | māsānāṁ mārga-śhīrṣho 'ham ṛitūnāṁ kusumākaraḥ ||",
+      "meaning": "Of the hymns in the Sama Veda I am the Brihat-sama, and of poetry I am the Gayatri. Of months I am Margasirsa [November-December], and of seasons I am flower-bearing spring."
+    },
+    {
+      "id": "10.36",
+      "chapter": 10,
+      "verse": 36,
+      "sanskrit": "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् | जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ||",
+      "pronunciation": "dyūtaṁ chhalayatām asmi tejas tejasvinām aham | jayo 'smi vyavasāyo 'smi sattvaṁ sattvavatām aham ||",
+      "meaning": "I am also the gambling of cheats, and of the splendid I am the splendor. I am victory, I am adventure, and I am the strength of the strong."
+    },
+    {
+      "id": "10.37",
+      "chapter": 10,
+      "verse": 37,
+      "sanskrit": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः | मुनीनामप्यहं व्यासः कवीनामुशना कविः ||",
+      "pronunciation": "vṛiṣhṇīnāṁ vāsudevo 'smi pāṇḍavānāṁ dhanañjayaḥ | munīnām apyahaṁ vyāsaḥ kavīnām uśhanā kaviḥ ||",
+      "meaning": "Of the descendants of Vrishni I am Vasudeva, and of the Pandavas I am Arjuna. Of the sages I am Vyasa, and among great thinkers I am Ushana."
+    },
+    {
+      "id": "10.38",
+      "chapter": 10,
+      "verse": 38,
+      "sanskrit": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् | मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||",
+      "pronunciation": "daṇḍo damayatām asmi nītir asmi jigīṣhatām | maunaṁ chaivāsmi guhyānāṁ jñānaṁ jñānavatām aham ||",
+      "meaning": "Among all means of suppressing lawlessness I am punishment, and of those who seek victory I am morality. Of secret things I am silence, and of the wise I am the wisdom."
+    },
+    {
+      "id": "10.39",
+      "chapter": 10,
+      "verse": 39,
+      "sanskrit": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन | न तदस्ति विना यत्स्यान्मया भूतं चराचरम् ||",
+      "pronunciation": "yach chāpi sarva-bhūtānāṁ bījaṁ tad aham arjuna | na tad asti vinā yat syān mayā bhūtaṁ charācharam ||",
+      "meaning": "Furthermore, O Arjuna, I am the generating seed of all existences. There is no being – moving or nonmoving – that can exist without Me."
+    },
+    {
+      "id": "10.40",
+      "chapter": 10,
+      "verse": 40,
+      "sanskrit": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप | एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||",
+      "pronunciation": "nānto 'sti mama divyānāṁ vibhūtīnāṁ parantapa | eṣha tūddeśhataḥ prokto vibhūter vistaro mayā ||",
+      "meaning": "O mighty conqueror of enemies, there is no end to My divine manifestations. What I have spoken to you is but a mere indication of My infinite opulences."
+    },
+    {
+      "id": "10.41",
+      "chapter": 10,
+      "verse": 41,
+      "sanskrit": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा | तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ||",
+      "pronunciation": "yad yad vibhūtimat sattvaṁ śhrīmad ūrjitam eva vā | tat tad evāvagachchha tvaṁ mama tejo 'ṁśha-sambhavam ||",
+      "meaning": "Know that all opulent, beautiful and glorious creations spring from but a spark of My splendor."
+    },
+    {
+      "id": "10.42",
+      "chapter": 10,
+      "verse": 42,
+      "sanskrit": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन | विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ||",
+      "pronunciation": "atha vā bahunaitena kiṁ jñātena tavārjuna | viṣhṭabhyāham idaṁ kṛitsnam ekāṁśhena sthito jagat ||",
+      "meaning": "But what need is there, Arjuna, for all this detailed knowledge? With a single fragment of Myself I pervade and support this entire universe."
+    }
+  ]
+}

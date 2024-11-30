@@ -1,0 +1,382 @@
+{
+  "chapter": 1,
+  "slokas": [
+    {
+      "id": "1.1",
+      "chapter": 1,
+      "verse": 1,
+      "sanskrit": "धृतराष्ट्र उवाच\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||",
+      "pronunciation": "dhr̥taraṣṭra uvāca\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāś caiva kim akurvata sañjaya",
+      "meaning": "Dhritarashtra said: O Sanjaya, gathered in the holy land of Kurukshetra, and eager to fight, what did my sons and the sons of Pandu do?"
+    },
+    {
+      "id": "1.2",
+      "chapter": 1,
+      "verse": 2,
+      "sanskrit": "सञ्जय उवाच\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा | आचार्यमुपसंगम्य राजा वचनमब्रवीत् ||",
+      "pronunciation": "sañjaya uvāca\ndr̥ṣṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanas tadā\nācāryam upasaṅgamya rājā vacanam abravīt",
+      "meaning": "Sanjaya said: On observing the Pandava army arranged in military formation, King Duryodhana approached his teacher Dronacharya and said these words."
+    },
+    {
+      "id": "1.3",
+      "chapter": 1,
+      "verse": 3,
+      "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् | व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||",
+      "pronunciation": "paśyaitāṁ pāṇḍu-putrāṇām ācārya mahatīṁ camūm\nvyūḍhāṁ drupada-putreṇa tava śiṣyeṇa dhīmatā",
+      "meaning": "Behold, O Teacher, this mighty army of the sons of Pandu, organized skillfully by your gifted disciple, the son of Drupada."
+    },
+    {
+      "id": "1.4",
+      "chapter": 1,
+      "verse": 4,
+      "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||",
+      "pronunciation": "atra śūrā maheṣvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaś ca drupadaś ca mahārathaḥ",
+      "meaning": "Here in this army are heroic bowmen, equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and Drupada, the mighty warrior."
+    },
+    {
+      "id": "1.5",
+      "chapter": 1,
+      "verse": 5,
+      "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ||",
+      "pronunciation": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān\npurujit kuntibhojaś ca śaibyaś ca nara-puṅgavaḥ",
+      "meaning": "There are also courageous warriors like Dhrishtaketu, Chekitana, the valiant King of Kasi, Purujit, Kuntibhoja, and Shaibya, the best among men."
+    },
+    {
+      "id": "1.6",
+      "chapter": 1,
+      "verse": 6,
+      "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||",
+      "pronunciation": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān\nsaubhadro draupadeyāś ca sarva eva mahārathāḥ",
+      "meaning": "The mighty Yudhamanyu, the valiant Uttamauja, Abhimanyu (the son of Subhadra), and the sons of Draupadi—all great warriors."
+    },
+    {
+      "id": "1.7",
+      "chapter": 1,
+      "verse": 7,
+      "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||",
+      "pronunciation": "asmākaṁ tu viśiṣṭā ye tān nibodha dvijottama\nnāyakā mama sainyasya sañjñārthaṁ tān bravīmi te",
+      "meaning": "O best of Brahmins, let me now describe to you the notable warriors in my army, for your information."
+    },
+    {
+      "id": "1.8",
+      "chapter": 1,
+      "verse": 8,
+      "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||",
+      "pronunciation": "bhavān bhīṣmaś ca karṇaś ca kr̥paś ca samitiṁ-jayaḥ\naśvatthāmā vikarṇaś ca saumadattis tathaiva ca",
+      "meaning": "Yourself, Bhishma, Karna, Kripa who are always victorious in battle; Ashwatthama, Vikarna, and also Bhurishrava, the son of Somadatta."
+    },
+    {
+      "id": "1.9",
+      "chapter": 1,
+      "verse": 9,
+      "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः | नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||",
+      "pronunciation": "anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ\nnānā-śastra-praharaṇāḥ sarve yuddha-viśāradāḥ",
+      "meaning": "Many other brave warriors are also prepared to lay down their lives for my sake, all armed with various weapons and well-versed in the art of war."
+    },
+    {
+      "id": "1.10",
+      "chapter": 1,
+      "verse": 10,
+      "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||",
+      "pronunciation": "aparyāptaṁ tad asmākaṁ balaṁ bhīṣmābhirakṣitam\nparyāptaṁ tv idam eteṣāṁ balaṁ bhīmābhirakṣitam",
+      "meaning": "The strength of our army, protected by Bhishma, is unlimited, whereas the strength of the Pandavas, protected by Bhima, is limited."
+    },
+    {
+      "id": "1.11",
+      "chapter": 1,
+      "verse": 11,
+      "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः | भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||",
+      "pronunciation": "ayaneṣu ca sarveṣu yathābhāgam avasthitāḥ\nbhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi",
+      "meaning": "Therefore, all of you, stationed at your respective positions, should protect Bhishma from all sides."
+    },
+    {
+      "id": "1.12",
+      "chapter": 1,
+      "verse": 12,
+      "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः | सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||",
+      "pronunciation": "tasya sañjanayan harṣaṁ kuru-vṛddhaḥ pitāmahaḥ\nsiṁhanādaṁ vinadyoccaiḥ śaṅkhaṁ dadhmau pratāpavān",
+      "meaning": "Then, the grand old man of the Kuru dynasty, Bhishma, roared like a lion and blew his conch shell to encourage Duryodhana."
+    },
+    {
+      "id": "1.13",
+      "chapter": 1,
+      "verse": 13,
+      "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः | सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||",
+      "pronunciation": "tataḥ śaṅkhāś ca bheryaś ca paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śabdas tumulo 'bhavat",
+      "meaning": "Thereafter, conch shells, drums, bugles, trumpets, and horns were sounded simultaneously, and the combined sound was tumultuous."
+    },
+    {
+      "id": "1.14",
+      "chapter": 1,
+      "verse": 14,
+      "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ | माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||",
+      "pronunciation": "tataḥ śvetair hayair yukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ",
+      "meaning": "Then, seated in a glorious chariot drawn by white horses, Madhava (Krishna) and the son of Pandu (Arjuna) blew their celestial conch shells."
+    },
+    {
+      "id": "1.15",
+      "chapter": 1,
+      "verse": 15,
+      "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||",
+      "pronunciation": "pāñcajanyaṁ hṛṣīkeśo devadattaṁ dhanañjayaḥ\npauṇḍraṁ dadhmau mahāśaṅkhaṁ bhīma-karmā vṛkodaraḥ",
+      "meaning": "Hrishikesha (Krishna) blew his conch named Panchajanya, and Arjuna blew his conch named Devadatta. Bhima, the performer of mighty deeds, blew his great conch named Paundra."
+    },
+    {
+      "id": "1.16",
+      "chapter": 1,
+      "verse": 16,
+      "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः | नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||",
+      "pronunciation": "anantavijayaṁ rājā kuntīputro yudhiṣṭhiraḥ\nnakulaḥ sahadevaś ca sughoṣa-maṇipuṣpakau",
+      "meaning": "King Yudhishthira, the son of Kunti, blew his conch named Anantavijaya. Nakula and Sahadeva blew their conches named Sughosha and Manipushpaka."
+    },
+    {
+      "id": "1.17",
+      "chapter": 1,
+      "verse": 17,
+      "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः | धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||",
+      "pronunciation": "kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ\ndhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ",
+      "meaning": "The great archer, the king of Kashi, the great chariot-warrior Shikhandi, Dhrishtadyumna, Virata, and the unvanquished Satyaki."
+    },
+    {
+      "id": "1.18",
+      "chapter": 1,
+      "verse": 18,
+      "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते | सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक् पृथक् ||",
+      "pronunciation": "drupado draupadeyāś ca sarvaśaḥ pṛthivīpate\nsaubhadraś ca mahābāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak",
+      "meaning": "O Lord of the Earth, Drupada, the sons of Draupadi and the mighty-armed son of Subhadra, all blew their respective conches."
+    },
+    {
+      "id": "1.19",
+      "chapter": 1,
+      "verse": 19,
+      "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् | नभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ||",
+      "pronunciation": "sa ghoṣo dhārtarāṣṭrāṇāṁ hṛdayāni vyadārayat\nabhaś ca pṛthivīṁ caiva tumulo vyanunādayan",
+      "meaning": "That tumultuous sound echoed through heaven and earth, piercing the hearts of Dhritarashtra's sons."
+    },
+    {
+      "id": "1.20",
+      "chapter": 1,
+      "verse": 20,
+      "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः | प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ||",
+      "pronunciation": "atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ",
+      "meaning": "Then, seeing the sons of Dhritarashtra standing arrayed and the discharge of weapons about to begin, Arjuna, who had the flag of Hanuman on his chariot, took up his bow."
+    },
+    {
+      "id": "1.21",
+      "chapter": 1,
+      "verse": 21,
+      "sanskrit": "हृषीकेशं तदा वाक्यमिदमाह महीपते | अर्जुन उवाच\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||",
+      "pronunciation": "hṛṣīkeśaṁ tadā vākyam idam āha mahīpate\narjuna uvāca\nsenayor ubhayor madhye rathaṁ sthāpaya me 'cyuta",
+      "meaning": "O King, Arjuna then spoke these words to Krishna: O Achyuta (Krishna), please draw my chariot between the two armies."
+    },
+    {
+      "id": "1.22",
+      "chapter": 1,
+      "verse": 22,
+      "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् | कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||",
+      "pronunciation": "yāvad etān nirīkṣe 'haṁ yoddhu-kāmān avasthitān\nkair mayā saha yoddhavyam asmin raṇa-samudyame",
+      "meaning": "So that I may observe those who stand here desirous of fighting, and know with whom I must fight in this battle."
+    },
+    {
+      "id": "1.23",
+      "chapter": 1,
+      "verse": 23,
+      "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः | धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||",
+      "pronunciation": "yotsyamānān avekṣe 'haṁ ya ete 'tra samāgatāḥ\ndhārtarāṣṭrasya durbuddher yuddhe priya-cikīrṣavaḥ",
+      "meaning": "Let me see those who have come here to fight, wishing to please the evil-minded son of Dhritarashtra."
+    },
+    {
+      "id": "1.24",
+      "chapter": 1,
+      "verse": 24,
+      "sanskrit": "सञ्जय उवाच\nएवं वाक्यार्जुनेनोक्तो हृषीकेशो गुडाकेश | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||",
+      "pronunciation": "sañjaya uvāca\nevaṁ vākyārjunenoktaḥ hṛṣīkeśo guḍākeśaḥ\nsenayor ubhayor madhye sthāpayitvā rathottamam",
+      "meaning": "Sanjaya said: O King, thus addressed by Arjuna, Krishna drew the magnificent chariot between the two armies."
+    },
+    {
+      "id": "1.25",
+      "chapter": 1,
+      "verse": 25,
+      "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् | उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||",
+      "pronunciation": "bhīṣma-droṇa-pramukhataḥ sarveṣāṁ ca mahīkṣitām\nuvāca pārtha paśyaitān samavetān kurūn iti",
+      "meaning": "In front of Bhishma, Drona and all the rulers of the earth, Krishna said: O Partha (Arjuna), behold these assembled Kurus."
+    },
+    {
+      "id": "1.26",
+      "chapter": 1,
+      "verse": 26,
+      "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् | आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||",
+      "pronunciation": "tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān\nācāryān mātulān bhrātṝn putrān pautrān sakhīṁs tathā",
+      "meaning": "There Arjuna saw standing fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons and friends."
+    },
+    {
+      "id": "1.27",
+      "chapter": 1,
+      "verse": 27,
+      "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि | तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||",
+      "pronunciation": "śvaśurān suhṛdaś caiva senayor ubhayor api\ntān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān",
+      "meaning": "Fathers-in-law, friends and all his well-wishers standing in both armies. When the son of Kunti saw all these relatives present there."
+    },
+    {
+      "id": "1.28",
+      "chapter": 1,
+      "verse": 28,
+      "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् | अर्जुन उवाच\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||",
+      "pronunciation": "kṛpayā parayāviṣṭo viṣīdann idam abravīt\narjuna uvāca\ndṛṣṭvemaṁ svajanaṁ kṛṣṇa yuyutsuṁ samupasthitam",
+      "meaning": "Filled with great compassion, Arjuna spoke these words in sorrow: O Krishna, seeing these kinsmen assembled here desirous to fight."
+    },
+    {
+      "id": "1.29",
+      "chapter": 1,
+      "verse": 29,
+      "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति | वेपथुश्च शरीरे मे रोमहर्षश्च जायते ||",
+      "pronunciation": "sīdanti mama gātrāṇi mukhaṁ ca pariśuṣyati\nvepathuś ca śarīre me roma-harṣaś ca jāyate",
+      "meaning": "My limbs quiver and my mouth becomes dry. My whole body trembles and my hair stands on end."
+    },
+    {
+      "id": "1.30",
+      "chapter": 1,
+      "verse": 30,
+      "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते | न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||",
+      "pronunciation": "gāṇḍīvaṁ sraṁsate hastāt tvak caiva paridahyate\nna ca śaknomy avasthātuṁ bhramatīva ca me manaḥ",
+      "meaning": "The Gandiva (bow) slips from my hands and my skin burns all over. I am unable to stand steady and my mind seems to be reeling."
+    },
+    {
+      "id": "1.31",
+      "chapter": 1,
+      "verse": 31,
+      "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||",
+      "pronunciation": "nimittāni ca paśyāmi viparītāni keśava\nna ca śreyo 'nupaśyāmi hatvā svajanam āhave",
+      "meaning": "O Keshava, I see adverse omens. I do not foresee any good in killing my own kinsmen in this battle."
+    },
+    {
+      "id": "1.32",
+      "chapter": 1,
+      "verse": 32,
+      "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च | किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||",
+      "pronunciation": "na kāṅkṣe vijayaṁ kṛṣṇa na ca rājyaṁ sukhāni ca\nkiṁ no rājyena govinda kiṁ bhogair jīvitena vā",
+      "meaning": "O Krishna, I do not desire victory, kingdom or pleasures. O Govinda, what is the use of a kingdom, enjoyments, or even life?"
+    },
+    {
+      "id": "1.33",
+      "chapter": 1,
+      "verse": 33,
+      "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च | त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||",
+      "pronunciation": "yeṣām arthe kāṅkṣitaṁ no rājyaṁ bhogāḥ sukhāni ca\nta ime 'vasthitā yuddhe prāṇāṁs tyaktvā dhanāni ca",
+      "meaning": "Those for whose sake we desire kingdom, enjoyments and pleasures, stand here in battle, giving up their lives and wealth."
+    },
+    {
+      "id": "1.34",
+      "chapter": 1,
+      "verse": 34,
+      "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः | मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||",
+      "pronunciation": "ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinas tathā",
+      "meaning": "Teachers, fathers, sons and grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law and other relatives."
+    },
+    {
+      "id": "1.35",
+      "chapter": 1,
+      "verse": 35,
+      "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन | अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||",
+      "pronunciation": "etān na hantum icchāmi ghnato 'pi madhusūdana\napi trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛte",
+      "meaning": "O Madhusudana, I do not wish to kill them, even if they kill me, even for the kingdom of the three worlds, let alone for this earthly kingdom."
+    },
+    {
+      "id": "1.36",
+      "chapter": 1,
+      "verse": 36,
+      "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन | पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||",
+      "pronunciation": "nihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana\npāpam evāśrayed asmān hatvaitān ātatāyinaḥ",
+      "meaning": "O Janardana, what pleasure will we derive from killing the sons of Dhritarashtra? Sin alone will overcome us if we slay these aggressors."
+    },
+    {
+      "id": "1.37",
+      "chapter": 1,
+      "verse": 37,
+      "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् | स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||",
+      "pronunciation": "tasmān nārhā vayaṁ hantuṁ dhārtarāṣṭrān sa-bāndhavān\nsvajanaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava",
+      "meaning": "Therefore, we should not kill our own kinsmen, the sons of Dhritarashtra. O Madhava, how can we be happy by killing our own people?"
+    },
+    {
+      "id": "1.38",
+      "chapter": 1,
+      "verse": 38,
+      "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः | कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||",
+      "pronunciation": "yady apy ete na paśyanti lobhopahata-cetasaḥ\nkula-kṣaya-kṛtaṁ doṣaṁ mitra-drohe ca pātakam",
+      "meaning": "Although these men, with intelligence overcome by greed, see no evil in destroying families and committing crimes against friends."
+    },
+    {
+      "id": "1.39",
+      "chapter": 1,
+      "verse": 39,
+      "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् | कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||",
+      "pronunciation": "kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum\nkula-kṣaya-kṛtaṁ doṣaṁ prapaśyadbhir janārdana",
+      "meaning": "O Janardana, why should we not know to turn away from this sin, seeing the evils of destroying the family?"
+    },
+    {
+      "id": "1.40",
+      "chapter": 1,
+      "verse": 40,
+      "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः | धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||",
+      "pronunciation": "kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ\ndharme naṣṭe kulaṁ kṛtsnam adharmo 'bhibhavaty uta",
+      "meaning": "With the destruction of the family, the eternal family traditions perish. When dharma is lost, the entire family is overcome by adharma."
+    },
+    {
+      "id": "1.41",
+      "chapter": 1,
+      "verse": 41,
+      "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः | स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||",
+      "pronunciation": "adharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṅkaraḥ",
+      "meaning": "O Krishna, when adharma prevails, the women of the family become corrupted. When women become corrupted, O descendant of Vrishni, it leads to unwanted progeny."
+    },
+    {
+      "id": "1.42",
+      "chapter": 1,
+      "verse": 42,
+      "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च | पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||",
+      "pronunciation": "saṅkaro narakāyaiva kula-ghnānāṁ kulasya ca\npatanti pitaro hy eṣāṁ lupta-piṇḍodaka-kriyāḥ",
+      "meaning": "An increase in unwanted population leads to a hellish situation for both the family and those who destroy the family tradition. The ancestors fall because the offerings of food and water are discontinued."
+    },
+    {
+      "id": "1.43",
+      "chapter": 1,
+      "verse": 43,
+      "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||",
+      "pronunciation": "doṣair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ\nutsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ",
+      "meaning": "By the evil deeds of those who destroy the family tradition and thus give rise to unwanted children, all kinds of community projects and family welfare activities are devastated."
+    },
+    {
+      "id": "1.44",
+      "chapter": 1,
+      "verse": 44,
+      "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन | नरके नियतं वासो भवतीत्यनुशुश्रुम ||",
+      "pronunciation": "utsanna-kula-dharmāṇāṁ manuṣyāṇāṁ janārdana\nnarake niyataṁ vāso bhavatīty anuśuśruma",
+      "meaning": "O Janardana, I have heard that those whose family traditions are destroyed dwell always in hell."
+    },
+    {
+      "id": "1.45",
+      "chapter": 1,
+      "verse": 45,
+      "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् | यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||",
+      "pronunciation": "aho bata mahat-pāpaṁ kartuṁ vyavasitā vayam\nyad rājya-sukha-lobhena hantuṁ svajanam udyatāḥ",
+      "meaning": "Alas, how strange it is that we are preparing to commit greatly sinful acts, driven by the desire to enjoy royal happiness, we are intent on killing our own kinsmen."
+    },
+    {
+      "id": "1.46",
+      "chapter": 1,
+      "verse": 46,
+      "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः | धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||",
+      "pronunciation": "yadi mām apratīkāram aśastraṁ śastra-pāṇayaḥ\ndhārtarāṣṭrā raṇe hanyus tan me kṣemataraṁ bhavet",
+      "meaning": "I would consider it better for the sons of Dhritarashtra to kill me unarmed and unresisting, rather than fight with them."
+    },
+    {
+      "id": "1.47",
+      "chapter": 1,
+      "verse": 47,
+      "sanskrit": "सञ्जय उवाच\nएवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् | विसृज्य सशरं चापं शोकसंविग्नमानसः ||",
+      "pronunciation": "sañjaya uvāca\nevam uktvārjunaḥ saṅkhye rathopastha upāviśat\nvisṛjya sa-śaraṁ cāpaṁ śoka-saṁvigna-mānasaḥ",
+      "meaning": "Sanjaya said: Having spoken thus in the midst of the battlefield, Arjuna cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief."
+    }
+
+  ]
+} 

@@ -1,0 +1,349 @@
+{
+  "chapter": 3,
+  "slokas": [ 
+    {
+      "id": "3.1",
+      "chapter": 3,
+      "verse": 1,
+      "sanskrit": "अर्जुन उवाच | ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन | तत्किं कर्मणि घोरे मां नियोजयसि केशव||",
+      "pronunciation": "arjuna uvāca\njyāyasī cet karmaṇas te matā buddhir janārdana\ntat kiṁ karmaṇi ghore māṁ niyojayasi keśava",
+      "meaning": "Arjuna said: O Janardana, O Keshava, if You consider knowledge to be superior to action, then why do You urge me to engage in this ghastly warfare?"
+    },
+    {
+      "id": "3.2",
+      "chapter": 3,
+      "verse": 2,
+      "sanskrit": "व्यमिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे | तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्||",
+      "pronunciation": "vyamiśreṇeva vākyena buddhiṁ mohayasīva me\ntad ekaṁ vada niścitya yena śreyo 'ham āpnuyām",
+      "meaning": "My intelligence is bewildered by Your equivocal instructions. Therefore, please tell me decisively which will be most beneficial for me."
+    },
+    {
+      "id": "3.3",
+      "chapter": 3,
+      "verse": 3,
+      "sanskrit": "श्रीभगवानुवाच | लोकेऽस्मिन द्विविधा निष्ठा पुरा प्रोक्ता मयानघ | ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम्||",
+      "pronunciation": "śrī-bhagavān uvāca\nloke 'smin dvividhā niṣṭhā purā proktā mayānagha\njñāna-yogena sāṅkhyānāṁ karma-yogena yoginām",
+      "meaning": "The Blessed Lord said: O sinless Arjuna, I have already explained that there are two classes of men who try to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service."
+    },
+    {
+      "id": "3.4",
+      "chapter": 3,
+      "verse": 4,
+      "sanskrit": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते | न च सन्न्यसनादेव सिद्धिं समधिगच्छति||",
+      "pronunciation": "na karmaṇām anārambhān naiṣkarmyaṁ puruṣo 'śnute\nna ca sannyasanād eva siddhiṁ samadhigacchati",
+      "meaning": "Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection."
+    },
+    {
+      "id": "3.5",
+      "chapter": 3,
+      "verse": 5,
+      "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् | कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः||",
+      "pronunciation": "na hi kaścit kṣaṇam api jātu tiṣṭhaty akarma-kṛt\nkāryate hy avaśaḥ karma sarvaḥ prakṛti-jair guṇaiḥ",
+      "meaning": "Everyone is forced to act helplessly according to the qualities he has acquired from the modes of material nature; therefore, no one can refrain from doing something, not even for a moment."
+    },
+    {
+      "id": "3.6",
+      "chapter": 3,
+      "verse": 6,
+      "sanskrit": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् | इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते||",
+      "pronunciation": "karmendriyāṇi saṁyamya ya āste manasā smaran\nindriyārthān vimūḍhātmā mithyācāraḥ sa ucyate",
+      "meaning": "One who restrains the senses of action but whose mind dwells on sense objects certainly deludes himself and is called a pretender."
+    },
+    {
+      "id": "3.7",
+      "chapter": 3,
+      "verse": 7,
+      "sanskrit": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन | कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते||",
+      "pronunciation": "yas tv indriyāṇi manasā niyamyārabhate 'rjuna\nkarmendriyaiḥ karma-yogam asaktaḥ sa viśiṣyate",
+      "meaning": "On the other hand, if a sincere person tries to control the active senses by the mind and begins karma-yoga in Krishna consciousness without attachment, he is by far superior."
+    },
+    {
+      "id": "3.8",
+      "chapter": 3,
+      "verse": 8,
+      "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः | शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः||",
+      "pronunciation": "niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ\nśarīra-yātrāpi ca te na prasiddhyed akarmaṇaḥ",
+      "meaning": "Perform your prescribed duty, for action is better than inaction. A man cannot even maintain his physical body without work."
+    },
+    {
+      "id": "3.9",
+      "chapter": 3,
+      "verse": 9,
+      "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः | तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर||",
+      "pronunciation": "yajñārthāt karmaṇo 'nyatra loko 'yaṁ karma-bandhanaḥ\ntad-arthaṁ karma kaunteya mukta-saṅgaḥ samācara",
+      "meaning": "Work done as a sacrifice for Vishnu has to be performed; otherwise, work binds one to this material world. Therefore, O son of Kunti, perform your prescribed duties for His satisfaction, and in that way, you will always remain free from bondage."
+    },
+    {
+      "id": "3.10",
+      "chapter": 3,
+      "verse": 10,
+      "sanskrit": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः | अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्||",
+      "pronunciation": "saha-yajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ\nanena prasaviṣyadhvam eṣa vo 'stv iṣṭa-kāmadhuk",
+      "meaning": "In the beginning, the Creator, having created mankind together with sacrifices, said: 'By this shall you prosper; let this be the giver of all that you desire.'"
+    },
+    {
+      "id": "3.11",
+      "chapter": 3,
+      "verse": 11,
+      "sanskrit": "देवान्भावयतानेन ते देवा भावयन्तु वः | परस्परं भावयन्तः श्रेयः परमवाप्स्यथ||",
+      "pronunciation": "devān bhāvayatānena te devā bhāvayantu vaḥ\nparasparaṁ bhāvayantaḥ śreyaḥ param avāpsyatha",
+      "meaning": "By your sacrifices, nourish the gods, and let the gods nourish you. By supporting one another in this way, you shall achieve the highest good."
+    },
+    {
+      "id": "3.12",
+      "chapter": 3,
+      "verse": 12,
+      "sanskrit": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः | तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः||",
+      "pronunciation": "iṣṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ\ntair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ",
+      "meaning": "The gods, being nourished by sacrifices, will grant you the necessities of life. But he who enjoys these gifts without offering them back to the gods is certainly a thief."
+    },
+    {
+      "id": "3.13",
+      "chapter": 3,
+      "verse": 13,
+      "sanskrit": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः | भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्||",
+      "pronunciation": "yajña-śiṣṭāśinaḥ santo mucyante sarva-kilbiṣaiḥ\nbhuñjate te tv aghaṁ pāpā ye pacanty ātma-kāraṇāt",
+      "meaning": "The righteous, who eat the remnants of sacrifices, are freed from all sins. But those who cook only for themselves eat only sin."
+    },
+    {
+      "id": "3.14",
+      "chapter": 3,
+      "verse": 14,
+      "sanskrit": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसंभवः | यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः||",
+      "pronunciation": "annād bhavanti bhūtāni parjanyād anna-sambhavaḥ\nyajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ",
+      "meaning": "All living beings subsist on food grains, which are produced from rain. Rains are produced by the performance of sacrifice, and sacrifice is born of prescribed duties."
+    },
+    {
+      "id": "3.15",
+      "chapter": 3,
+      "verse": 15,
+      "sanskrit": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् | तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्||",
+      "pronunciation": "karma brahmodbhavaṁ viddhi brahmākṣara-samudbhavam\ntasmāt sarva-gataṁ brahma nityaṁ yajñe pratiṣṭhitam",
+      "meaning": "Know that all prescribed duties are born of the Vedas, and the Vedas are born of the imperishable Brahman. Therefore, the all-pervading Brahman is eternally situated in acts of sacrifice."
+    },
+    {
+      "id": "3.16",
+      "chapter": 3,
+      "verse": 16,
+      "sanskrit": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः | अघायुरिन्द्रियारामो मोघं पार्थ स जीवति||",
+      "pronunciation": "evaṁ pravartitaṁ cakraṁ nānuvartayatīha yaḥ\naghāyur indriyārāmo moghaṁ pārtha sa jīvati",
+      "meaning": "My dear Arjuna, he who does not follow in human life the cycle of sacrifice established by the Vedas certainly lives a life full of sin. Such a person lives only for the satisfaction of the senses; indeed, his life is wasted."
+    },
+    {
+      "id": "3.17",
+      "chapter": 3,
+      "verse": 17,
+      "sanskrit": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः | आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते||",
+      "pronunciation": "yas tv ātma-ratir eva syād ātma-tṛptaś ca mānavaḥ\nātmany eva ca santuṣṭas tasya kāryaṁ na vidyate",
+      "meaning": "But for one who takes pleasure in the self, whose human life is one of self-realization, and who is satisfied in the self only, fully satiated—for him there is no duty."
+    },
+    {
+      "id": "3.18",
+      "chapter": 3,
+      "verse": 18,
+      "sanskrit": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन | न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः||",
+      "pronunciation": "naiva tasya kṛtenārtho nākṛteneha kaścana\nna cāsya sarva-bhūteṣu kaścid artha-vyapāśrayaḥ",
+      "meaning": "A self-realized man has no purpose to fulfill in the discharge of his prescribed duties, nor has he any reason not to perform such work. Nor has he any need to depend on any other living being."
+    },
+    {
+      "id": "3.19",
+      "chapter": 3,
+      "verse": 19,
+      "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर | असक्तो ह्याचरन्कर्म परमाप्नोति पुरुषः||",
+      "pronunciation": "tasmād asaktaḥ satataṁ kāryaṁ karma samācara\nasakto hy ācaran karma param āpnoti puruṣaḥ",
+      "meaning": "Therefore, without being attached to the fruits of activities, one should act as a matter of duty; for by working without attachment, one attains the Supreme."
+    },
+    {
+      "id": "3.20",
+      "chapter": 3,
+      "verse": 20,
+      "sanskrit": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः | लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि||",
+      "pronunciation": "karmaṇaiva hi saṁsiddhim āsthitā janakādayaḥ\nloka-saṅgraham evāpi sampaśyan kartum arhasi",
+      "meaning": "Kings like Janaka and others attained perfection solely by performing their prescribed duties. Therefore, just for the sake of educating the people in general, you should perform your work."
+    },
+    {
+      "id": "3.21",
+      "chapter": 3,
+      "verse": 21,
+      "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः | स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते||",
+      "pronunciation": "yad yad ācarati śreṣṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute lokas tad anuvartate",
+      "meaning": "Whatever action a great man performs, common men follow. Whatever standards he sets by exemplary acts, all the world pursues."
+    },
+    {
+      "id": "3.22",
+      "chapter": 3,
+      "verse": 22,
+      "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन | नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि||",
+      "pronunciation": "na me pārthāsti kartavyaṁ triṣu lokeṣu kiñcana\nnānavāptam avāptavyaṁ varta eva ca karmaṇi",
+      "meaning": "O Partha, there is no work prescribed for Me within all the three planetary systems. Nor am I in want of anything, nor have I a need to obtain anything—and yet I am engaged in prescribed duties."
+    },
+    {
+      "id": "3.23",
+      "chapter": 3,
+      "verse": 23,
+      "sanskrit": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः | मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः||",
+      "pronunciation": "yadi hy ahaṁ na varteyaṁ jātu karmaṇy atandritaḥ\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ",
+      "meaning": "If I did not engage in work, O Partha, certainly all men would follow My path."
+    },
+    {
+      "id": "3.24",
+      "chapter": 3,
+      "verse": 24,
+      "sanskrit": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् | सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः||",
+      "pronunciation": "utsīdeyur ime lokā na kuryāṁ karma ced aham\nsaṅkarasya ca kartā syām upahanyām imāḥ prajāḥ",
+      "meaning": "If I ceased to perform My prescribed duties, all these worlds would be put to ruination. I would also be the cause of creating unwanted population, and I would thereby destroy the peace of all living beings."
+    },
+    {
+      "id": "3.25",
+      "chapter": 3,
+      "verse": 25,
+      "sanskrit": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत | कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्||",
+      "pronunciation": "saktāḥ karmaṇy avidvāṁso yathā kurvanti bhārata\nkuryād vidvāṁs tathāsaktaś cikīrṣur loka-saṅgraham",
+      "meaning": "As the ignorant perform their duties with attachment to results, O Bharata, so should the wise act without attachment, for the sake of leading people on the right path."
+    },
+    {
+      "id": "3.26",
+      "chapter": 3,
+      "verse": 26,
+      "sanskrit": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् | जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन्||",
+      "pronunciation": "na buddhi-bhedaṁ janayed ajñānāṁ karma-saṅginām\njoṣayet sarva-karmāṇi vidvānyuktaḥ samācaran",
+      "meaning": "Let not the wise disrupt the minds of the ignorant who are attached to fruitive action. They should perform their duties with devotion and inspire others to follow."
+    },
+    {
+      "id": "3.27",
+      "chapter": 3,
+      "verse": 27,
+      "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः | अहङ्कारविमूढात्मा कर्ताहमिति मन्यते||",
+      "pronunciation": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ\nahaṅkāra-vimūḍhātmā kartāham iti manyate",
+      "meaning": "The soul bewildered by the influence of false ego thinks himself the doer of activities that are in actuality carried out by the three modes of material nature."
+    },
+    {
+      "id": "3.28",
+      "chapter": 3,
+      "verse": 28,
+      "sanskrit": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः | गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते||",
+      "pronunciation": "tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ\nguṇā guṇeṣu vartanta iti matvā na sajjate",
+      "meaning": "One who is in knowledge of the Absolute Truth, O mighty-armed Arjuna, does not engage himself in the senses and sense gratification, knowing well the differences between work in devotion and work for fruitive results."
+    },
+    {
+      "id": "3.29",
+      "chapter": 3,
+      "verse": 29,
+      "sanskrit": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु | तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्||",
+      "pronunciation": "prakṛter guṇa-sammūḍhāḥ sajjante guṇa-karmasu\ntān akṛtsna-vido mandān kṛtsna-viṇ na vicālayet",
+      "meaning": "Bewildered by the modes of material nature, the ignorant fully engage themselves in material activities and become attached. But the wise should not unsettle them, although they are performing their duties imperfectly."
+    },
+    {
+      "id": "3.30",
+      "chapter": 3,
+      "verse": 30,
+      "sanskrit": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा | निर्ममः निरहङ्कारः सान्त्वं चिन्ताविनिर्मुक्तः||",
+      "pronunciation": "mayi sarvāṇi karmāṇi sannyasyādhyātma-cetasā\nnirmamaḥ nirahaṅkāraḥ sāntvaṁ cintā-vinirmuktaḥ",
+      "meaning": "Surrender all your works to Me, with full knowledge of Me, without desires for profit, with no claims to proprietorship, and free from lethargy, fight!"
+    },
+    {
+      "id": "3.31",
+      "chapter": 3,
+      "verse": 31,
+      "sanskrit": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः | श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः||",
+      "pronunciation": "ye me matam idaṁ nityam anutiṣṭhanti mānavāḥ\nśraddhāvanto'nasūyanto mucyante te'pi karmabhiḥ",
+      "meaning": "Those human beings who faithfully follow my teachings without envy are freed from the bondage of karma."
+    },
+    {
+      "id": "3.32",
+      "chapter": 3,
+      "verse": 32,
+      "sanskrit": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् | सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः||",
+      "pronunciation": "ye tv etad abhyasūyanto nānutiṣṭhanti me matam\nsarva-jñāna-vimūḍhān tān viddhi naṣṭān acetasaḥ",
+      "meaning": "But those who, out of envy, disregard these teachings and do not follow them, are to be considered deluded and bereft of knowledge."
+    },
+    {
+      "id": "3.33",
+      "chapter": 3,
+      "verse": 33,
+      "sanskrit": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि | प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति||",
+      "pronunciation": "sadṛśaṁ ceṣṭate svasyaḥ prakṛter jñānavān api\nprakṛtiṁ yānti bhūtāni nigrahaḥ kiṁ kariṣyati",
+      "meaning": "Even a wise person acts according to their own nature. All living beings follow their nature. What can repression accomplish?"
+    },
+    {
+      "id": "3.34",
+      "chapter": 3,
+      "verse": 34,
+      "sanskrit": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ | तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ||",
+      "pronunciation": "indriyasya-indriyasya arthe rāga-dveṣau vyavasthitau\ntayor na vaśam āgacchet tau hy asya paripanthinau",
+      "meaning": "Attachment and aversion are rooted in the senses and their objects. One should not come under their control as they obstruct the path to self-realization."
+    },
+    {
+      "id": "3.35",
+      "chapter": 3,
+      "verse": 35,
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् | स्वधर्मे निधनं श्रेयः परधर्मो भयावहः||",
+      "pronunciation": "śreyān svadharmo viguṇaḥ para-dharmāt svanuṣṭhitāt\nsvadharme nidhanaṁ śreyaḥ para-dharmo bhayāvahaḥ",
+      "meaning": "It is better to perform one's own dharma, even imperfectly, than to perform another's dharma perfectly. Death in one's own dharma is preferable, as another's dharma is fraught with fear."
+    },
+    {
+      "id": "3.36",
+      "chapter": 3,
+      "verse": 36,
+      "sanskrit": "अर्जुन उवाच | अथ केन प्रयुक्तोऽयं पापं चरति पुरुषः | अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः||",
+      "pronunciation": "arjuna uvāca\natha kena prayukto 'yaṁ pāpaṁ carati puruṣaḥ\nanicchann api vārṣṇeya balād iva niyojitaḥ",
+      "meaning": "Arjuna asked: O Krishna, by what is one impelled to sinful acts, even unwillingly, as if engaged by force?"
+    },
+    {
+      "id": "3.37",
+      "chapter": 3,
+      "verse": 37,
+      "sanskrit": "श्रीभगवानुवाच | काम एष क्रोध एष रजोगुणसमुद्भवः | महाशनो महापाप्मा विद्ध्येनमिह वैरिणम्||",
+      "pronunciation": "śrī-bhagavān uvāca\nkāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ\nmahāśano mahā-pāpmā viddhy enam iha vairiṇam",
+      "meaning": "The Blessed Lord said: It is lust and anger, arising from the mode of passion, that are insatiable and greatly sinful. Know these to be the true enemies in this world."
+    },
+    {
+      "id": "3.38",
+      "chapter": 3,
+      "verse": 38,
+      "sanskrit": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च | यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्||",
+      "pronunciation": "dhūmenāvriyate vahnir yathādarśo malena ca\nyatholbenāvṛto garbhas tathā tenedam āvṛtam",
+      "meaning": "As fire is obscured by smoke, a mirror by dust, and a fetus by the womb, so is knowledge obscured by desire."
+    },
+    {
+      "id": "3.39",
+      "chapter": 3,
+      "verse": 39,
+      "sanskrit": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा | कामरूपेण कौन्तेय दुष्पूरेणानलेन च||",
+      "pronunciation": "āvṛtaṁ jñānam etena jñānino nitya-vairiṇā\nkāma-rūpeṇa kaunteya duṣpūreṇānalena ca",
+      "meaning": "O Kaunteya, knowledge is covered by this eternal enemy of the wise, which takes the form of insatiable desire and burns like fire."
+    },
+    {
+      "id": "3.40",
+      "chapter": 3,
+      "verse": 40,
+      "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते | एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्||",
+      "pronunciation": "indriyāṇi mano buddhir asyādhiṣṭhānam ucyate\netair vimohayaty eṣa jñānam āvṛtya dehinam",
+      "meaning": "The senses, mind, and intellect are said to be the seats of desire. Through them, desire deludes the embodied soul by covering its knowledge."
+    },
+    {
+      "id": "3.41",
+      "chapter": 3,
+      "verse": 41,
+      "sanskrit": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ | पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्||",
+      "pronunciation": "tasmāt tvam indriyāṇy ādau niyamya bharatarṣabha\npāpmānaṁ prajahi hy enaṁ jñāna-vijñāna-nāśanam",
+      "meaning": "Therefore, O Arjuna, first control the senses, and then slay this sinful enemy of knowledge and realization in the form of desire."
+    },
+    {
+      "id": "3.42",
+      "chapter": 3,
+      "verse": 42,
+      "sanskrit": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः | मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः||",
+      "pronunciation": "indriyāṇi parāṇy āhur indriyebhyaḥ paraṁ manaḥ\nmanasas tu parā buddhir yo buddheḥ paratas tu saḥ",
+      "meaning": "The senses are superior to the body, the mind is higher than the senses, and intellect is still higher. The soul, however, is even greater than the intellect."
+    },
+    {
+      "id": "3.43",
+      "chapter": 3,
+      "verse": 43,
+      "sanskrit": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना | जहि शत्रुं महाबाहो कामरूपं दुरासदम्||",
+      "pronunciation": "evaṁ buddheḥ paraṁ buddhvā saṁstabhyātmānam ātmanā\njahi śatruṁ mahā-bāho kāma-rūpaṁ durāsadam",
+      "meaning": "Thus, understanding the soul to be transcendental to the intellect and steadying the mind with spiritual intelligence, O mighty-armed Arjuna, conquer this formidable enemy in the form of lust."
+    }
+  ]
+} 

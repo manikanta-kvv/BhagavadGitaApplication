@@ -1,0 +1,629 @@
+{
+  "chapter": 18,
+  "slokas": [
+    {
+      "id": "18.1",
+      "chapter": 18,
+      "verse": 1,
+      "sanskrit": "अर्जुन उवाच | संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् | त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ||",
+      "pronunciation": "arjuna uvācha | sannyāsasya mahā-bāho tattvam ichchhāmi veditum | tyāgasya cha hṛiṣhīkeśha pṛithak keśhi-niṣhūdana ||",
+      "meaning": "Arjuna said: O mighty-armed one, I wish to understand the purpose of renunciation [tyāga] and of the renounced order of life [sannyāsa], O killer of the Keshi demon, master of the senses."
+    },
+    {
+      "id": "18.2",
+      "chapter": 18,
+      "verse": 2,
+      "sanskrit": "श्रीभगवानुवाच | काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः | सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||",
+      "pronunciation": "śhrī-bhagavān uvācha | kāmyānāṁ karmaṇāṁ nyāsaṁ sannyāsaṁ kavayo viduḥ | sarva-karma-phala-tyāgaṁ prāhus tyāgaṁ vichakṣhaṇāḥ ||",
+      "meaning": "The Supreme Personality of Godhead said: The giving up of activities that are based on material desire is what great learned men call the renounced order of life [sannyāsa]. And giving up the results of all activities is what the wise call renunciation [tyāga]."
+    },
+    {
+      "id": "18.3",
+      "chapter": 18,
+      "verse": 3,
+      "sanskrit": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः | यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् | यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||",
+      "pronunciation": "tyājyaṁ doṣha-vad ity eke karma prāhur manīṣhiṇaḥ | yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat | yajño dānaṁ tapaśh chaiva pāvanāni manīṣhiṇām ||",
+      "meaning": "Some learned men declare that all kinds of fruitive activities should be given up as faulty, yet other sages maintain that acts of sacrifice, charity and penance should never be abandoned."
+    },
+    {
+      "id": "18.4",
+      "chapter": 18,
+      "verse": 4,
+      "sanskrit": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम | त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ||",
+      "pronunciation": "niśhchayaṁ śhṛiṇu me tatra tyāge bharata-sattama | tyāgo hi puruṣha-vyāghra tri-vidhaḥ samprakīrtitaḥ ||",
+      "meaning": "O best of the Bharatas, now hear My judgment about renunciation. O tiger among men, renunciation is declared in the scriptures to be of three kinds."
+    },
+    {
+      "id": "18.5",
+      "chapter": 18,
+      "verse": 5,
+      "sanskrit": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् | यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||",
+      "pronunciation": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat | yajño dānaṁ tapaśh chaiva pāvanāni manīṣhiṇām ||",
+      "meaning": "Acts of sacrifice, charity and penance are not to be given up; they must be performed. Indeed, sacrifice, charity and penance purify even the great souls."
+    },
+    {
+      "id": "18.6",
+      "chapter": 18,
+      "verse": 6,
+      "sanskrit": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च | कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् ||",
+      "pronunciation": "etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni cha | kartavyānīti me pārtha niśhchitaṁ matam uttamam ||",
+      "meaning": "All these activities should be performed without attachment or any expectation of result. They should be performed as a matter of duty, O son of Pritha. That is My final opinion."
+    },
+    {
+      "id": "18.7",
+      "chapter": 18,
+      "verse": 7,
+      "sanskrit": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते | मोहात्तस्य परित्यागस्तामसः परिकीर्तितः ||",
+      "pronunciation": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate | mohāt tasya parityāgas tāmasaḥ parikīrtitaḥ ||",
+      "meaning": "Prescribed duties should never be renounced. If one gives up his prescribed duties out of illusion, such renunciation is said to be in the mode of ignorance."
+    },
+    {
+      "id": "18.8",
+      "chapter": 18,
+      "verse": 8,
+      "sanskrit": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् | स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ||",
+      "pronunciation": "duḥkham ity eva yat karma kāya-kleśha-bhayāt tyajet | sa kṛitvā rājasaṁ tyāgaṁ naiva tyāga-phalaṁ labhet ||",
+      "meaning": "Anyone who gives up prescribed duties as troublesome or out of fear of bodily discomfort is said to have renounced in the mode of passion. Such action never leads to the elevation of renunciation."
+    },
+    {
+      "id": "18.9",
+      "chapter": 18,
+      "verse": 9,
+      "sanskrit": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन | सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ||",
+      "pronunciation": "kāryam ity eva yat karma niyataṁ kriyate 'rjuna | saṅgaṁ tyaktvā phalaṁ chaiva sa tyāgaḥ sāttviko mataḥ ||",
+      "meaning": "O Arjuna, when one performs his prescribed duty only because it ought to be done, and renounces all material association and all attachment to the fruit, his renunciation is said to be in the mode of goodness."
+    },
+    {
+      "id": "18.10",
+      "chapter": 18,
+      "verse": 10,
+      "sanskrit": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते | त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ||",
+      "pronunciation": "na dveṣhṭy akuśhalaṁ karma kuśhale nānuṣhajjate | tyāgī sattva-samāviṣhṭo medhāvī chhinna-sanśhayaḥ ||",
+      "meaning": "The intelligent renouncer situated in the mode of goodness, neither hateful of inauspicious work nor attached to auspicious work, has no doubts about work."
+    },
+    {
+      "id": "18.11",
+      "chapter": 18,
+      "verse": 11,
+      "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः | यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||",
+      "pronunciation": "na hi deha-bhṛitā śhakyaṁ tyaktuṁ karmāṇy aśheṣhataḥ | yas tu karma-phala-tyāgī sa tyāgīty abhidhīyate ||",
+      "meaning": "It is indeed impossible for an embodied being to give up all activities entirely, but he who renounces the fruits of action is called one who has truly renounced."
+    },
+    {
+      "id": "18.12",
+      "chapter": 18,
+      "verse": 12,
+      "sanskrit": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् | भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ||",
+      "pronunciation": "aniṣhṭam iṣhṭaṁ miśhraṁ cha tri-vidhaṁ karmaṇaḥ phalam | bhavaty atyāgināṁ pretya na tu sannyāsināṁ kvachit ||",
+      "meaning": "For one who is not renounced, the threefold fruits of action – desirable, undesirable and mixed – accrue after death. But those who are in the renounced order of life have no such result to suffer or enjoy."
+    },
+    {
+      "id": "18.13",
+      "chapter": 18,
+      "verse": 13,
+      "sanskrit": "पञ्चैतानि महाबाहो कारणानि निबोध मे | सांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||",
+      "pronunciation": "pañchaitāni mahā-bāho kāraṇāni nibodha me | sānkhye kṛitānte proktāni siddhaye sarva-karmaṇām ||",
+      "meaning": "O mighty-armed one, according to the Sankhya philosophy, there are five causes for the accomplishment of all action. Now learn of these from Me."
+    },
+    {
+      "id": "18.14",
+      "chapter": 18,
+      "verse": 14,
+      "sanskrit": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् | विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ||",
+      "pronunciation": "adhiṣhṭhānaṁ tathā kartā karaṇaṁ cha pṛithag-vidham | vividhāśh cha pṛithak cheṣhṭā daivaṁ chaivātra pañchamam ||",
+      "meaning": "The place of action [the body], the performer, the various senses, the many different kinds of endeavor, and ultimately the Supersoul – these are the five factors of action."
+    },
+    {
+      "id": "18.15",
+      "chapter": 18,
+      "verse": 15,
+      "sanskrit": "शरीरवाङ्नोभिर्यत्कर्म प्रारभते नरः | न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ||",
+      "pronunciation": "śharīra-vāṅ-manobhir yat karma prārabhate naraḥ | nyāyyaṁ vā viparītaṁ vā pañchaite tasya hetavaḥ ||",
+      "meaning": "Whatever right or wrong action a man performs by body, mind or speech is caused by these five factors."
+    },
+    {
+      "id": "18.16",
+      "chapter": 18,
+      "verse": 16,
+      "sanskrit": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः | पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||",
+      "pronunciation": "tatraivaṁ sati kartāram ātmānaṁ kevalaṁ tu yaḥ | paśhyaty akṛita-buddhitvān na sa paśhyati durmatiḥ ||",
+      "meaning": "Therefore one who thinks himself the only doer, not considering the five factors, is certainly not very intelligent and cannot see things as they are."
+    },
+    {
+      "id": "18.17",
+      "chapter": 18,
+      "verse": 17,
+      "sanskrit": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते | हत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते ||",
+      "pronunciation": "yasya nāhankṛito bhāvo buddhir yasya na lipyate | hatvāpi sa imāl lokān na hanti na nibadhyate ||",
+      "meaning": "One who is not motivated by false ego, whose intelligence is not entangled, though he kills men in this world, does not kill. Nor is he bound by his actions."
+    },
+    {
+      "id": "18.18",
+      "chapter": 18,
+      "verse": 18,
+      "sanskrit": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना | करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||",
+      "pronunciation": "jñānaṁ jñeyaṁ parijñātā tri-vidhā karma-chodanā | karaṇaṁ karma karteti tri-vidhaḥ karma-saṁgrahaḥ ||",
+      "meaning": "Knowledge, the object of knowledge, and the knower are the three factors that motivate action; the senses, the work and the doer are the three constituents of action."
+    },
+    {
+      "id": "18.19",
+      "chapter": 18,
+      "verse": 19,
+      "sanskrit": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः | प्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि ||",
+      "pronunciation": "jñānaṁ karma cha kartā cha tridhaiva guṇa-bhedataḥ | prochyate guṇa-saṅkhyāne yathāvach chhṛiṇu tāny api ||",
+      "meaning": "According to the three different modes of material nature, there are three kinds of knowledge, action and performer of action. Now hear of them from Me."
+    },
+    {
+      "id": "18.20",
+      "chapter": 18,
+      "verse": 20,
+      "sanskrit": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते | अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ||",
+      "pronunciation": "sarva-bhūteṣhu yenaikaṁ bhāvam avyayam īkṣhate | avibhaktaṁ vibhakteṣhu taj jñānaṁ viddhi sāttvikam ||",
+      "meaning": "That knowledge by which one undivided spiritual nature is seen in all living entities, though they are divided into innumerable forms, you should understand to be in the mode of goodness."
+    },
+    {
+      "id": "18.21",
+      "chapter": 18,
+      "verse": 21,
+      "sanskrit": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् | वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ||",
+      "pronunciation": "pṛithaktvena tu yaj jñānaṁ nānā-bhāvān pṛithag-vidhān | vetti sarveṣhu bhūteṣhu taj jñānaṁ viddhi rājasam ||",
+      "meaning": "That knowledge by which one sees that in every different body there is a different type of living entity you should understand to be in the mode of passion."
+    },
+    {
+      "id": "18.22",
+      "chapter": 18,
+      "verse": 22,
+      "sanskrit": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् | अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||",
+      "pronunciation": "yat tu kṛitsna-vad ekasmin kārye saktam ahaitukam | atattvārtha-vad alpaṁ cha tat tāmasam udāhṛitam ||",
+      "meaning": "And that knowledge by which one is attached to one kind of work as the all in all, without knowledge of the truth, and which is very meager, is said to be in the mode of darkness."
+    },
+    {
+      "id": "18.23",
+      "chapter": 18,
+      "verse": 23,
+      "sanskrit": "नियतं सङ्गरहितमरागद्वेषतः कृतम् | अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्य��े ||",
+      "pronunciation": "niyataṁ saṅga-rahitam arāga-dveṣhataḥ kṛitam | aphala-prepsunā karma yat tat sāttvikam uchyate ||",
+      "meaning": "That action which is regulated and which is performed without attachment, without love or hatred, and without desire for fruitive results is said to be in the mode of goodness."
+    },
+    {
+      "id": "18.24",
+      "chapter": 18,
+      "verse": 24,
+      "sanskrit": "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः | क्रियते बहुलायासं तद्राजसमुदाहृतम् ||",
+      "pronunciation": "yat tu kāmepsunā karma sāhankāreṇa vā punaḥ | kriyate bahulāyāsaṁ tad rājasam udāhṛitam ||",
+      "meaning": "But action performed with great effort by one seeking to gratify his desires, and enacted from a sense of false ego, is called action in the mode of passion."
+    },
+    {
+      "id": "18.25",
+      "chapter": 18,
+      "verse": 25,
+      "sanskrit": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् | मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ||",
+      "pronunciation": "anubandhaṁ kṣhayaṁ hinsām anapekṣhya cha pauruṣham | mohād ārabhyate karma yat tat tāmasam uchyate ||",
+      "meaning": "That action performed in illusion, in disregard of scriptural injunctions, and without concern for future bondage or for violence or distress caused to others is said to be in the mode of ignorance."
+    },
+    {
+      "id": "18.26",
+      "chapter": 18,
+      "verse": 26,
+      "sanskrit": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः | सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ||",
+      "pronunciation": "mukta-saṅgo 'nahaṁ-vādī dhṛity-utsāha-samanvitaḥ | siddhy-asiddhyor nirvikāraḥ kartā sāttvika uchyate ||",
+      "meaning": "One who performs his duty without association with the modes of material nature, without false ego, with great determination and enthusiasm, and without wavering in success or failure is said to be a worker in the mode of goodness."
+    },
+    {
+      "id": "18.27",
+      "chapter": 18,
+      "verse": 27,
+      "sanskrit": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः | हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ||",
+      "pronunciation": "rāgī karma-phala-prepsur lubdho hinsātmako 'śhuchiḥ | harṣha-śhokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||",
+      "meaning": "The worker who is attached to work and the fruits of work, desiring to enjoy those fruits, and who is greedy, always envious, impure, and moved by joy and sorrow, is said to be in the mode of passion."
+    },
+    {
+      "id": "18.28",
+      "chapter": 18,
+      "verse": 28,
+      "sanskrit": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः | विषादी दीर्घसूत्री च कर्ता तामस उच्यते ||",
+      "pronunciation": "ayuktaḥ prākṛitaḥ stabdhaḥ śhaṭho naiṣhkṛitiko 'lasaḥ | viṣhādī dīrgha-sūtrī cha kartā tāmasa uchyate ||",
+      "meaning": "The worker who is always engaged in work against the injunctions of the scripture, who is materialistic, obstinate, cheating and expert in insulting others, and who is lazy, always morose and procrastinating is said to be a worker in the mode of ignorance."
+    },
+    {
+      "id": "18.29",
+      "chapter": 18,
+      "verse": 29,
+      "sanskrit": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु | प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ||",
+      "pronunciation": "buddher bhedaṁ dhṛiteśh chaiva guṇatas tri-vidhaṁ śhṛiṇu | prochyamānam aśheṣheṇa pṛithaktvena dhanañjaya ||",
+      "meaning": "O winner of wealth, now please listen as I tell you in detail of the different kinds of understanding and determination, according to the three modes of material nature."
+    },
+    {
+      "id": "18.30",
+      "chapter": 18,
+      "verse": 30,
+      "sanskrit": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये | बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||",
+      "pronunciation": "pravṛittiṁ cha nivṛittiṁ cha kāryākārye bhayābhaye | bandhaṁ mokṣhaṁ cha yā vetti buddhiḥ sā pārtha sāttvikī ||",
+      "meaning": "O son of Pritha, that understanding by which one knows what ought to be done and what ought not to be done, what is to be feared and what is not to be feared, what is binding and what is liberating, is in the mode of goodness."
+    },
+    {
+      "id": "18.31",
+      "chapter": 18,
+      "verse": 31,
+      "sanskrit": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च | अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||",
+      "pronunciation": "yayā dharmam adharmaṁ cha kāryaṁ chākāryam eva cha | ayathāvat prajānāti buddhiḥ sā pārtha rājasī ||",
+      "meaning": "That understanding which cannot distinguish between religion and irreligion, between action that should be done and action that should not be done, is in the mode of passion, O son of Pritha."
+    },
+    {
+      "id": "18.32",
+      "chapter": 18,
+      "verse": 32,
+      "sanskrit": "अधर्मं धर्ममिति या मन्यते तमसावृता | सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||",
+      "pronunciation": "adharmaṁ dharmam iti yā manyate tamasāvṛitā | sarvārthān viparītānśh cha buddhiḥ sā pārtha tāmasī ||",
+      "meaning": "That understanding which considers irreligion to be religion and religion to be irreligion, under the spell of illusion and darkness, and strives always in the wrong direction, O Partha, is in the mode of ignorance."
+    },
+    {
+      "id": "18.33",
+      "chapter": 18,
+      "verse": 33,
+      "sanskrit": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः | योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ||",
+      "pronunciation": "dhṛityā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ | yogenāvyabhichāriṇyā dhṛitiḥ sā pārtha sāttvikī ||",
+      "meaning": "O son of Pritha, that determination which is unbreakable, which is sustained with steadfastness by yoga practice, and which thus controls the activities of the mind, life and senses is determination in the mode of goodness."
+    },
+    {
+      "id": "18.34",
+      "chapter": 18,
+      "verse": 34,
+      "sanskrit": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन | प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ||",
+      "pronunciation": "yayā tu dharma-kāmārthān dhṛityā dhārayate 'rjuna | prasaṅgena phalākāṅkṣhī dhṛitiḥ sā pārtha rājasī ||",
+      "meaning": "But that determination by which one holds fast to fruitive results in religion, economic development and sense gratification is of the nature of passion, O Arjuna."
+    },
+    {
+      "id": "18.35",
+      "chapter": 18,
+      "verse": 35,
+      "sanskrit": "यया स्वप्नं भयं शोकं विषादं मदमेव च | न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ||",
+      "pronunciation": "yayā svapnaṁ bhayaṁ śhokaṁ viṣhādaṁ madam eva cha | na vimuñchati durmedhā dhṛitiḥ sā pārtha tāmasī ||",
+      "meaning": "And that determination which cannot go beyond dreaming, fearfulness, lamentation, moroseness and illusion – such unintelligent determination, O son of Pritha, is in the mode of darkness."
+    },
+    {
+      "id": "18.36",
+      "chapter": 18,
+      "verse": 36,
+      "sanskrit": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ | अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ||",
+      "pronunciation": "sukhaṁ tv idānīṁ tri-vidhaṁ śhṛiṇu me bharatarṣhabha | abhyāsād ramate yatra duḥkhāntaṁ cha nigachchhati ||",
+      "meaning": "O best of the Bharatas, now please hear from Me about the three kinds of happiness by which the conditioned soul enjoys, and by which he sometimes comes to the end of all distress."
+    },
+    {
+      "id": "18.37",
+      "chapter": 18,
+      "verse": 37,
+      "sanskrit": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् | तत्सुखं सत्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||",
+      "pronunciation": "yat tad agre viṣham iva pariṇāme 'mṛitopamam | tat sukhaṁ sāttvikaṁ proktam ātma-buddhi-prasāda-jam ||",
+      "meaning": "That which in the beginning may be just like poison but at the end is just like nectar and which awakens one to self-realization is said to be happiness in the mode of goodness."
+    },
+    {
+      "id": "18.38",
+      "chapter": 18,
+      "verse": 38,
+      "sanskrit": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् | परिणामे विषमिव तत्सुखं राजसं स्मृतम् ||",
+      "pronunciation": "viṣhayendriya-sanyogād yat tad agre 'mṛitopamam | pariṇāme viṣham iva tat sukhaṁ rājasaṁ smṛitam ||",
+      "meaning": "That happiness which is derived from contact of the senses with their objects and which appears like nectar at first but poison at the end is said to be of the nature of passion."
+    },
+    {
+      "id": "18.39",
+      "chapter": 18,
+      "verse": 39,
+      "sanskrit": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः | निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ||",
+      "pronunciation": "yad agre chānubandhe cha sukhaṁ mohanam ātmanaḥ | nidrālasya-pramādotthaṁ tat tāmasam udāhṛitam ||",
+      "meaning": "And that happiness which is blind to self-realization, which is delusion from beginning to end and which arises from sleep, laziness and illusion is said to be of the nature of ignorance."
+    },
+    {
+      "id": "18.40",
+      "chapter": 18,
+      "verse": 40,
+      "sanskrit": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः | सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||",
+      "pronunciation": "na tad asti pṛithivyāṁ vā divi deveṣhu vā punaḥ | sattvaṁ prakṛiti-jair muktaṁ yad ebhiḥ syāt tribhir guṇaiḥ ||",
+      "meaning": "There is no being existing, either here or among the demigods in the higher planetary systems, which is freed from these three modes born of material nature."
+    },
+    {
+      "id": "18.41",
+      "chapter": 18,
+      "verse": 41,
+      "sanskrit": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप | कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ||",
+      "pronunciation": "brāhmaṇa-kṣhatriya-viśhāṁ śhūdrāṇāṁ cha parantapa | karmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ ||",
+      "meaning": "Brahmanas, kshatriyas, vaishyas and shudras are distinguished by the qualities born of their own natures in accordance with the material modes, O chastiser of the enemy."
+    },
+    {
+      "id": "18.42",
+      "chapter": 18,
+      "verse": 42,
+      "sanskrit": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च | ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ||",
+      "pronunciation": "śhamo damas tapaḥ śhauchaṁ kṣhāntir ārjavam eva cha | jñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva-jam ||",
+      "meaning": "Peacefulness, self-control, austerity, purity, tolerance, honesty, knowledge, wisdom and religiousness – these are the natural qualities by which the brahmanas work."
+    },
+    {
+      "id": "18.43",
+      "chapter": 18,
+      "verse": 43,
+      "sanskrit": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् | दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ||",
+      "pronunciation": "śhauryaṁ tejo dhṛitir dākṣhyaṁ yuddhe chāpy apalāyanam | dānam īśhvara-bhāvaśh cha kṣhātraṁ karma svabhāva-jam ||",
+      "meaning": "Heroism, power, determination, resourcefulness, courage in battle, generosity and leadership are the natural qualities of work for the kshatriyas."
+    },
+    {
+      "id": "18.44",
+      "chapter": 18,
+      "verse": 44,
+      "sanskrit": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् | परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ||",
+      "pronunciation": "kṛiṣhi-gau-rakṣhya-vāṇijyaṁ vaiśhya-karma svabhāva-jam | paricharyātmakaṁ karma śhūdrasyāpi svabhāva-jam ||",
+      "meaning": "Farming, cow protection and business are the natural work for the vaishyas, and for the shudras there is labor and service to others."
+    },
+    {
+      "id": "18.45",
+      "chapter": 18,
+      "verse": 45,
+      "sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः | स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||",
+      "pronunciation": "sve sve karmaṇy abhirataḥ sansiddhiṁ labhate naraḥ | sva-karma-nirataḥ siddhiṁ yathā vindati tach chhṛiṇu ||",
+      "meaning": "By following his qualities of work, every man can become perfect. Now please hear from Me how this can be done."
+    },
+    {
+      "id": "18.46",
+      "chapter": 18,
+      "verse": 46,
+      "sanskrit": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् | स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||",
+      "pronunciation": "yataḥ pravṛittir bhūtānāṁ yena sarvam idaṁ tatam | sva-karmaṇā tam abhyarchya siddhiṁ vindati mānavaḥ ||",
+      "meaning": "By worship of the Lord, who is the source of all beings and who is all-pervading, a man can attain perfection through performing his own work."
+    },
+    {
+      "id": "18.47",
+      "chapter": 18,
+      "verse": 47,
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् | स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ||",
+      "pronunciation": "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt | svabhāva-niyataṁ karma kurvan nāpnoti kilbiṣham ||",
+      "meaning": "It is better to engage in one's own occupation, even though one may perform it imperfectly, than to accept another's occupation and perform it perfectly. Duties prescribed according to one's nature are never affected by sinful reactions."
+    },
+    {
+      "id": "18.48",
+      "chapter": 18,
+      "verse": 48,
+      "sanskrit": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् | सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ||",
+      "pronunciation": "saha-jaṁ karma kaunteya sa-doṣham api na tyajet | sarvārambhā hi doṣheṇa dhūmenāgnir ivāvṛitāḥ ||",
+      "meaning": "Every endeavor is covered by some fault, just as fire is covered by smoke. Therefore one should not give up the work born of his nature, O son of Kunti, even if such work is full of fault."
+    },
+    {
+      "id": "18.49",
+      "chapter": 18,
+      "verse": 49,
+      "sanskrit": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः | नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||",
+      "pronunciation": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛihaḥ | naiṣhkarmya-siddhiṁ paramāṁ sannyāsenādhigachchhati ||",
+      "meaning": "One who is self-controlled and unattached and who disregards all material enjoyments can obtain, by practice of renunciation, the highest perfect stage of freedom from reaction."
+    },
+    {
+      "id": "18.50",
+      "chapter": 18,
+      "verse": 50,
+      "sanskrit": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे | समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ||",
+      "pronunciation": "siddhiṁ prāpto yathā brahma tathāpnoti nibodha me | samāsenaiva kaunteya niṣhṭhā jñānasya yā parā ||",
+      "meaning": "O son of Kunti, learn from Me how one who has achieved this perfection can attain to the supreme perfectional stage, Brahman, the stage of highest knowledge, by acting in the way I shall now summarize."
+    },
+    {
+      "id": "18.51",
+      "chapter": 18,
+      "verse": 51,
+      "sanskrit": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च | शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||",
+      "pronunciation": "buddhyā viśhuddhayā yukto dhṛityātmānaṁ niyamya cha | śhabdādīn viṣhayāns tyaktvā rāga-dveṣhau vyudasya cha ||",
+      "meaning": "Being purified by his intelligence and controlling the mind with determination, giving up the objects of sense gratification, being freed from attachment and hatred, one who lives in a secluded place, who eats little, who controls his body, mind and power of speech, who is always in trance and who is detached,"
+    },
+    {
+      "id": "18.52",
+      "chapter": 18,
+      "verse": 52,
+      "sanskrit": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः | ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ||",
+      "pronunciation": "vivikta-sevī laghv-āśhī yata-vāk-kāya-mānasaḥ | dhyāna-yoga-paro nityaṁ vairāgyaṁ samupāśhritaḥ ||",
+      "meaning": "who is free from false ego, false strength, false pride, lust, anger, and acceptance of material things, who is free from false proprietorship, and who is peaceful – such a person is certainly elevated to the position of self-realization."
+    },
+    {
+      "id": "18.53",
+      "chapter": 18,
+      "verse": 53,
+      "sanskrit": "अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम् | विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||",
+      "pronunciation": "ahankāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ parigraham | vimuchya nirmamaḥ śhānto brahma-bhūyāya kalpate ||",
+      "meaning": "One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments or desires to have anything. He is equally disposed toward every living entity. In that state he attains pure devotional service unto Me."
+    },
+    {
+      "id": "18.54",
+      "chapter": 18,
+      "verse": 54,
+      "sanskrit": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति | समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||",
+      "pronunciation": "brahma-bhūtaḥ prasannātmā na śhochati na kāṅkṣhati | samaḥ sarveṣhu bhūteṣhu mad-bhaktiṁ labhate parām ||",
+      "meaning": "One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments or desires to have anything. He is equally disposed toward every living entity. In that state he attains pure devotional service unto Me."
+    },
+    {
+      "id": "18.55",
+      "chapter": 18,
+      "verse": 55,
+      "sanskrit": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः | ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ||",
+      "pronunciation": "bhaktyā mām abhijānāti yāvān yaśh chāsmi tattvataḥ | tato māṁ tattvato jñātvā viśhate tad-anantaram ||",
+      "meaning": "One can understand Me as I am, as the Supreme Personality of Godhead, only by devotional service. And when one is in full consciousness of Me by such devotion, he can enter into the kingdom of God."
+    },
+    {
+      "id": "18.56",
+      "chapter": 18,
+      "verse": 56,
+      "sanskrit": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः | मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ||",
+      "pronunciation": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśhrayaḥ | mat-prasādād avāpnoti śhāśhvataṁ padam avyayam ||",
+      "meaning": "Though engaged in all kinds of activities, My pure devotee, under My protection, reaches the eternal and imperishable abode by My grace."
+    },
+    {
+      "id": "18.57",
+      "chapter": 18,
+      "verse": 57,
+      "sanskrit": "चेतसा सर्वकर्माणि मयि सन्न्यस्य मत्परः | बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||",
+      "pronunciation": "chetasā sarva-karmāṇi mayi sannyasya mat-paraḥ | buddhi-yogam upāśhritya mach-chittaḥ satataṁ bhava ||",
+      "meaning": "In all activities just depend upon Me and work always under My protection. In such devotional service, be fully conscious of Me."
+    },
+    {
+      "id": "18.58",
+      "chapter": 18,
+      "verse": 58,
+      "sanskrit": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि | अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि ||",
+      "pronunciation": "mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi | atha chet tvam ahaṅkārān na śhroṣhyasi vinaṅkṣhyasi ||",
+      "meaning": "If you become conscious of Me, you will pass over all the obstacles of conditioned life by My grace. If, however, you do not work in such consciousness but act through false ego, not hearing Me, you will be lost."
+    },
+    {
+      "id": "18.59",
+      "chapter": 18,
+      "verse": 59,
+      "sanskrit": "यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे | मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ||",
+      "pronunciation": "yad ahaṅkāram āśhritya na yotsya iti manyase | mithyaiṣha vyavasāyas te prakṛitis tvāṁ niyokṣhyati ||",
+      "meaning": "If you do not act according to My direction and do not fight, then you will be falsely directed. By your nature, you will have to be engaged in warfare."
+    },
+    {
+      "id": "18.60",
+      "chapter": 18,
+      "verse": 60,
+      "sanskrit": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा | कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् ||",
+      "pronunciation": "svabhāva-jena kaunteya nibaddhaḥ svena karmaṇā | kartuṁ nechchhasi yan mohāt kariṣhyasy avaśho 'pi tat ||",
+      "meaning": "Under illusion you are now declining to act according to My direction. But, compelled by the work born of your own nature, you will act all the same, O son of Kunti."
+    },
+    {
+      "id": "18.61",
+      "chapter": 18,
+      "verse": 61,
+      "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति | भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ||",
+      "pronunciation": "īśhvaraḥ sarva-bhūtānāṁ hṛid-deśhe 'rjuna tiṣhṭhati | bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā ||",
+      "meaning": "The Supreme Lord dwells in the hearts of all beings, O Arjuna, causing them to revolve according to their karma by His illusory energy, as if they were mounted on a machine."
+    },
+    {
+      "id": "18.62",
+      "chapter": 18,
+      "verse": 62,
+      "sanskrit": "तमेव शरणं गच्छ सर्वभावेन भारत | तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ||",
+      "pronunciation": "tam eva śharaṇaṁ gachchha sarva-bhāvena bhārata | tat-prasādāt parāṁ śhāntiṁ sthānaṁ prāpsyasi śhāśhvatam ||",
+      "meaning": "Surrender unto Him utterly, O Bharata. By His grace you will attain transcendental peace and the supreme and eternal abode."
+    },
+    {
+      "id": "18.63",
+      "chapter": 18,
+      "verse": 63,
+      "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||",
+      "pronunciation": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā | vimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru ||",
+      "meaning": "Thus I have explained to you knowledge still more confidential. Deliberate on this fully, and then do what you wish to do."
+    },
+    {
+      "id": "18.64",
+      "chapter": 18,
+      "verse": 64,
+      "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ||",
+      "pronunciation": "sarva-guhyatamaṁ bhūyaḥ śhṛiṇu me paramaṁ vachaḥ | iṣhṭo 'si me dṛiḍham iti tato vakṣhyāmi te hitam ||",
+      "meaning": "Because you are My very dear friend, I am speaking to you My supreme word, the most confidential knowledge. Hear this from Me, for it is for your benefit."
+    },
+    {
+      "id": "18.65",
+      "chapter": 18,
+      "verse": 65,
+      "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु | मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ||",
+      "pronunciation": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru | mām evaiṣhyasi satyaṁ te pratijāne priyo 'si me ||",
+      "meaning": "Always think of Me, become My devotee, worship Me and offer your homage unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend."
+    },
+    {
+      "id": "18.66",
+      "chapter": 18,
+      "verse": 66,
+      "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज | अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||",
+      "pronunciation": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja | ahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ ||",
+      "meaning": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear."
+    },
+    {
+      "id": "18.67",
+      "chapter": 18,
+      "verse": 67,
+      "sanskrit": "इदं ते नातपस्काय नाभक्ताय कदाचन | न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ||",
+      "pronunciation": "idaṁ te nātapaskāya nābhaktāya kadāchana | na chāśhuśhruṣhave vāchyaṁ na cha māṁ yo 'bhyasūyati ||",
+      "meaning": "This confidential knowledge may never be explained to those who are not austere, or devoted, or engaged in devotional service, nor to one who is envious of Me."
+    },
+    {
+      "id": "18.68",
+      "chapter": 18,
+      "verse": 68,
+      "sanskrit": "य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति | भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ||",
+      "pronunciation": "ya idaṁ paramaṁ guhyaṁ mad-bhakteṣhv abhidhāsyati | bhaktiṁ mayi parāṁ kṛitvā mām evaiṣhyaty asanśhayaḥ ||",
+      "meaning": "For one who explains this supreme secret to the devotees, pure devotional service is guaranteed, and at the end he will come back to Me."
+    },
+    {
+      "id": "18.69",
+      "chapter": 18,
+      "verse": 69,
+      "sanskrit": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः | भविता न च मे तस्मादन्यः प्रियतरो भुवि ||",
+      "pronunciation": "na cha tasmān manuṣhyeṣhu kaśhchin me priya-kṛittamaḥ | bhavitā na cha me tasmād anyaḥ priyataro bhuvi ||",
+      "meaning": "There is no servant in this world more dear to Me than he, nor will there ever be one more dear."
+    },
+    {
+      "id": "18.70",
+      "chapter": 18,
+      "verse": 70,
+      "sanskrit": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः | ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||",
+      "pronunciation": "adhyeṣhyate cha ya imaṁ dharmyaṁ saṁvādam āvayoḥ | jñāna-yajñena tenāham iṣhṭaḥ syām iti me matiḥ ||",
+      "meaning": "And I declare that he who studies this sacred conversation of ours worships Me by his intelligence."
+    },
+    {
+      "id": "18.71",
+      "chapter": 18,
+      "verse": 71,
+      "sanskrit": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||",
+      "pronunciation": "śhraddhāvān anasūyaśh cha śhṛiṇuyād api yo naraḥ | so 'pi muktaḥ śhubhāl lokān prāpnuyāt puṇya-karmaṇām ||",
+      "meaning": "And any man who listens with faith and without envy becomes free from sinful reactions and attains to the auspicious planets where the pious dwell."
+    },
+    {
+      "id": "18.72",
+      "chapter": 18,
+      "verse": 72,
+      "sanskrit": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा | कच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय ||",
+      "pronunciation": "kachchid etach chhrutaṁ pārtha tvayaikāgreṇa chetasā | kachchid ajñāna-sammohaḥ pranaṣhṭas te dhanañjaya ||",
+      "meaning": "O son of Pritha, O conqueror of wealth, have you heard this with an attentive mind? And are your ignorance and illusions now dispelled?"
+    },
+    {
+      "id": "18.73",
+      "chapter": 18,
+      "verse": 73,
+      "sanskrit": "अर्जुन उवाच | नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत | स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ||",
+      "pronunciation": "arjuna uvācha | naṣhṭo mohaḥ smṛitir labdhā tvat-prasādān mayāchyuta | sthito 'smi gata-sandehaḥ kariṣhye vachanaṁ tava ||",
+      "meaning": "Arjuna said: My dear Krishna, O infallible one, my illusion is now gone. I have regained my memory by Your mercy. I am now firm and free from doubt and am prepared to act according to Your instructions."
+    },
+    {
+      "id": "18.74",
+      "chapter": 18,
+      "verse": 74,
+      "sanskrit": "सञ्जय उवाच | इत्यहं वासुदेवस्य पार्थस्य च महात्मनः | संवादमिममश्रौषमद्भुतं रोमहर्षणम् ||",
+      "pronunciation": "sañjaya uvācha | ity ahaṁ vāsudevasya pārthasya cha mahātmanaḥ | saṁvādam imam aśhrauṣham adbhutaṁ roma-harṣhaṇam ||",
+      "meaning": "Sanjaya said: Thus have I heard the conversation of two great souls, Krishna and Arjuna. And so wonderful is that message that my hair is standing on end."
+    },
+    {
+      "id": "18.75",
+      "chapter": 18,
+      "verse": 75,
+      "sanskrit": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् | योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ||",
+      "pronunciation": "vyāsa-prasādāch chhrutavān etad guhyam ahaṁ param | yogaṁ yogeśhvarāt kṛiṣhṇāt sākṣhāt kathayataḥ svayam ||",
+      "meaning": "By the mercy of Vyasa, I have heard these most confidential talks directly from the master of all mysticism, Krishna, who was speaking personally to Arjuna."
+    },
+    {
+      "id": "18.76",
+      "chapter": 18,
+      "verse": 76,
+      "sanskrit": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् | केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ||",
+      "pronunciation": "rājan sansmṛitya sansmṛitya saṁvādam imam adbhutam | keśhavārjunayoḥ puṇyaṁ hṛiṣhyāmi cha muhur muhuḥ ||",
+      "meaning": "O King, as I repeatedly recall this wondrous and holy dialogue between Krishna and Arjuna, I take pleasure in it again and again."
+    },
+    {
+      "id": "18.77",
+      "chapter": 18,
+      "verse": 77,
+      "sanskrit": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः | विस्मयो मे महान्राजन्हृष्यामि च पुनः पुनः ||",
+      "pronunciation": "tach cha sansmṛitya sansmṛitya rūpam aty-adbhutaṁ hareḥ | vismayo me mahān rājan hṛiṣhyāmi cha punaḥ punaḥ ||",
+      "meaning": "O King, as I remember the wonderful form of Lord Krishna, I am struck with wonder more and more, and I rejoice again and again."
+    },
+    {
+      "id": "18.78",
+      "chapter": 18,
+      "verse": 78,
+      "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः | तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ||",
+      "pronunciation": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ | tatra śhrīr vijayo bhūtir dhruvā nītir matir mama ||",
+      "meaning": "Wherever there is Krishna, the master of all mystics, and wherever there is Arjuna, the supreme archer, there will also certainly be opulence, victory, extraordinary power, and morality. That is my opinion."
+    }
+  ]
+}
