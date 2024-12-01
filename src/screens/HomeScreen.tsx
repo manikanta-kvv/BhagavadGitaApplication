@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
+import { View, Text, StyleSheet, Image, TouchableOpacity, AppState, AppStateStatus } from 'react-native';
 import FlipCard from 'react-native-flip-card';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { getAllSlokas, getChapterSlokas } from '../utils/slokaUtils';
@@ -12,10 +12,42 @@ export default function HomeScreen() {
   const [isFlipped, setIsFlipped] = useState(false);
   const [currentChapter, setCurrentChapter] = useState(1);
   const { refreshFavorites, updateReadCount, favorites } = useFavorites();
+  const [appStateVisible, setAppStateVisible] = useState(AppState.currentState);
+  const [lastActiveTime, setLastActiveTime] = useState<number>(Date.now());
 
   const allSlokas = getAllSlokas();
 
   const currentSloka = allSlokas.slokas[currentSlokaIndex];
+
+  // Add this new useEffect for AppState monitoring
+  useEffect(() => {
+    const subscription = AppState.addEventListener('change', handleAppStateChange);
+    return () => {
+      subscription.remove();
+    };
+  }, []);
+  // Add this new handler
+  const handleAppStateChange = async (nextAppState: AppStateStatus) => {
+    setAppStateVisible(nextAppState);
+    
+    if (nextAppState === 'active') {
+      const currentTime = Date.now();
+      const inactiveTime = currentTime - lastActiveTime;
+      const thirtyMinutes = 1 * 60 * 1000; // 30 minutes in milliseconds
+      
+      // Check if inactive for 30 minutes or date changed
+      const currentDate = new Date().toISOString().split('T')[0];
+      const lastVisitDate = await AsyncStorage.getItem('lastVisitDate');
+      
+      if (inactiveTime > thirtyMinutes || currentDate !== lastVisitDate) {
+        console.log('App became active after inactivity or date change');
+        await getDailySloka();
+      }
+    } else if (nextAppState === 'background') {
+      setLastActiveTime(Date.now());
+    }
+  };
+  
 
   // Check if current sloka is in favorites when index changes
   useEffect(() => {
@@ -69,6 +101,67 @@ export default function HomeScreen() {
     setCurrentChapter(chapterNum);
     setCurrentSlokaIndex(0); // Reset to first sloka of the chapter
   };
+
+  const getDailySloka = async () => {
+    try {
+      // Get current device date (will update when device date changes)
+      const currentDate = new Date();
+      const today = currentDate.toISOString().split('T')[0]; // Format: YYYY-MM-DD
+      
+      // Log for testing
+      console.log('Current device date:', today);
+      
+      const lastVisitDate = await AsyncStorage.getItem('lastVisitDate');
+      console.log('Last visit date:', lastVisitDate);
+      
+      const visitedSlokas = JSON.parse(await AsyncStorage.getItem('visitedSlokas') || '[]');
+
+      // If it's a new day or first time
+      if (lastVisitDate !== today) {
+        console.log('New day detected, changing sloka...');
+        
+        let unvisitedSlokas = allSlokas.slokas.filter(
+          sloka => !visitedSlokas.includes(sloka.id)
+        );
+        
+        // If all slokas have been shown, reset visited slokas
+        if (unvisitedSlokas.length === 0) {
+          console.log('All slokas visited, resetting list...');
+          await AsyncStorage.setItem('visitedSlokas', '[]');
+          unvisitedSlokas = allSlokas.slokas;
+        }
+        
+        // Get random sloka from unvisited ones
+        const randomIndex = Math.floor(Math.random() * unvisitedSlokas.length);
+        const dailySloka = unvisitedSlokas[randomIndex];
+        
+        // Update storage
+        await AsyncStorage.setItem('lastVisitDate', today);
+        await AsyncStorage.setItem('currentDailySloka', dailySloka.id);
+        visitedSlokas.push(dailySloka.id);
+        await AsyncStorage.setItem('visitedSlokas', JSON.stringify(visitedSlokas));
+        
+        // Update UI
+        const slokaIndex = allSlokas.slokas.findIndex(s => s.id === dailySloka.id);
+        setCurrentSlokaIndex(slokaIndex);
+        console.log('New sloka set:', dailySloka.id);
+      } else {
+        console.log('Same day, loading saved sloka...');
+        // Load saved daily sloka
+        const dailySlokaId = await AsyncStorage.getItem('currentDailySloka');
+        if (dailySlokaId) {
+          const slokaIndex = allSlokas.slokas.findIndex(s => s.id === dailySlokaId);
+          setCurrentSlokaIndex(slokaIndex);
+        }
+      }
+    } catch (error) {
+      console.error('Error getting daily sloka:', error);
+    }
+  };
+
+  useEffect(() => {
+    getDailySloka();
+  }, []); // Empty dependency array means it runs once on mount
 
   return (
     <View style={styles.container}>
