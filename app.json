@@ -15,12 +15,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.manikantakvv.BhagavadGitaApplication"
     },
     "android": {
       "package": "com.manikantakvv.BhagavadGitaApplication",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/ChariotWheel.png",
+        "foregroundImage": "./assets/appIcon1.png",
         "backgroundColor": "#ffffff"
       },
       "versionCode": 1
