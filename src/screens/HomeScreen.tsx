@@ -14,6 +14,7 @@ export default function HomeScreen() {
   const { refreshFavorites, updateReadCount, favorites } = useFavorites();
   const [appStateVisible, setAppStateVisible] = useState(AppState.currentState);
   const [lastActiveTime, setLastActiveTime] = useState<number>(Date.now());
+  const [isInitialLoad, setIsInitialLoad] = useState(true);
 
   const allSlokas = getAllSlokas();
 
@@ -52,10 +53,20 @@ export default function HomeScreen() {
   // Check if current sloka is in favorites when index changes
   useEffect(() => {
     checkIfFavorite();
-    if (currentSloka?.id) {
+    if (currentSloka?.id && isInitialLoad) {
+      console.log('Not Updating read count for initial load:', currentSloka.id);
+      // updateReadCount(currentSloka.id);
+      setIsInitialLoad(false);
+    }
+  }, [isInitialLoad, currentSloka?.id]);
+
+  // Reset hasUpdatedReadCount when sloka index changes
+  useEffect(() => {
+    if (!isInitialLoad && currentSloka?.id) {
+      console.log('Updating read count for sloka index change:', currentSloka.id);
       updateReadCount(currentSloka.id);
     }
-  }, [currentSlokaIndex, favorites]);
+  }, [currentSlokaIndex]);
 
   const checkIfFavorite = async () => {
     try {
