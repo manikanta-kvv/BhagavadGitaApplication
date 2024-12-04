@@ -35,8 +35,8 @@
     },
     "scheme": "bhagavadgitaapplication",
     "experiments": {
-      "tsconfigPaths": true,
-      "newArchitecture": true
-    }
+      "tsconfigPaths": true
+    },
+    "newArchEnabled": true
   }
 }
