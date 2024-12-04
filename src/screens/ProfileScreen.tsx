@@ -14,7 +14,7 @@ export default function ProfileScreen() {
   useEffect(() => {
     const loadUsername = async () => {
       try {
-        const storedUsername = await AsyncStorage.getItem('username') || 'Arjuna!';
+        const storedUsername = await AsyncStorage.getItem('username') || 'Arjunaa!';
         setUsername(storedUsername);
       } catch (error) {
         console.error('Error loading username:', error);

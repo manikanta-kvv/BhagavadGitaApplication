@@ -6,23 +6,37 @@
     "orientation": "portrait",
     "icon": "./assets/appIcon1.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/ChariotWheel.png",
-      "resizeMode": "cover",
+      "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.manikantakvv.BhagavadGitaApplication",
       "adaptiveIcon": {
         "foregroundImage": "./assets/ChariotWheel.png",
-        "backgroundColor": "#F5FFFE"
-      }
+        "backgroundColor": "#ffffff"
+      },
+      "versionCode": 1
     },
     "web": {
-      "favicon": "./assets/ChariotWheel.png"
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fcfffb2f-8838-4aeb-9fe8-1a80f41d90ba"
+      }
+    },
+    "scheme": "bhagavadgitaapplication",
+    "experiments": {
+      "tsconfigPaths": true,
+      "newArchitecture": true
     }
   }
 }
