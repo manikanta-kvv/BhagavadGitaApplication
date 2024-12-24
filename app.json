@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "BhagavadGitaApplication",
-    "slug": "BhagavadGitaApplication",
+    "name": "GitaVerse",
+    "slug": "GitaVerse",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/appIcon1.png",
+    "icon": "./assets/GitaVerse2xIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/ChariotWheel.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,28 +16,28 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.manikantakvv.BhagavadGitaApplication"
+      "bundleIdentifier": "com.manikantakvv.GitaVerse"
     },
     "android": {
-      "package": "com.manikantakvv.BhagavadGitaApplication",
+      "package": "com.manikantakvv.GitaVerse",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/appIcon1.png",
+        "foregroundImage": "./assets/GitaVerse2xIcon.png",
         "backgroundColor": "#ffffff"
       },
       "versionCode": 1
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/GitaVerse2xIcon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "fcfffb2f-8838-4aeb-9fe8-1a80f41d90ba"
-      }
-    },
-    "scheme": "bhagavadgitaapplication",
+    "scheme": "gitaverse",
     "experiments": {
       "tsconfigPaths": true
     },
-    "newArchEnabled": true
+    "newArchEnabled": true,
+    "extra": {
+      "eas": {
+        "projectId": "607489a8-b78a-4b13-a831-966ca50f826f"
+      }
+    }
   }
 }

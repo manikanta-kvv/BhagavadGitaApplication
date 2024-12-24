@@ -53,12 +53,10 @@ export default function HomeScreen() {
   // Check if current sloka is in favorites when index changes
   useEffect(() => {
     checkIfFavorite();
-    if (currentSloka?.id && isInitialLoad) {
-      console.log('Not Updating read count for initial load:', currentSloka.id);
-      // updateReadCount(currentSloka.id);
+    if(currentSloka?.id) {
       setIsInitialLoad(false);
     }
-  }, [isInitialLoad, currentSloka?.id]);
+  }, [favorites, currentSloka?.id]);
 
   // Reset hasUpdatedReadCount when sloka index changes
   useEffect(() => {
